@@ -9,12 +9,18 @@ theme = 'papermod'
 	name = "Home"
 	url = "/"
 	weight = 1
+	
+	[[menu.main]]
+	identifier = "blog"
+	name = "Writing"
+	url = "/blog/"
+	weight = 2
 
 	[[menu.main]]
 	identifier = "box"
-	name = "Secret"
-	url = "/box/"
-	weight = 2
+	name = "Sewing"
+	url = "/sewing/"
+	weight = 3
 
 	#[[menu.main]]
 	#identifier = "first-post"
