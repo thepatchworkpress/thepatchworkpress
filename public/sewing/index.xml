@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Sewing on The Patchwork Press</title>
+    <link>http://localhost:1313/sewing/</link>
+    <description>Recent content in Sewing on The Patchwork Press</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Mar 2025 20:43:17 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/sewing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bog</title>
+      <link>http://localhost:1313/sewing/bogdweller/</link>
+      <pubDate>Fri, 14 Mar 2025 20:43:17 +0000</pubDate>
+      <guid>http://localhost:1313/sewing/bogdweller/</guid>
+      <description>&lt;h1 id=&#34;my-journey-with-strings&#34;&gt;My journey with strings&lt;/h1&gt;
+&lt;p&gt;over the past 10 years, I have endeavoured on a search for the stringiest string. A string so stringy it strings all strings. I have journeyed through the string forests and galloped atop the string steeds. All of which lead me to the string tree atop the string mountain (strountain). It was so stringy. What a string.&lt;/p&gt;
+&lt;p&gt;![bog-dweller]|(bog_dweller_patch.jpg)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>String</title>
+      <link>http://localhost:1313/sewing/string/</link>
+      <pubDate>Fri, 14 Mar 2025 20:43:17 +0000</pubDate>
+      <guid>http://localhost:1313/sewing/string/</guid>
+      <description>&lt;h1 id=&#34;my-journey-with-strings&#34;&gt;My journey with strings&lt;/h1&gt;
+&lt;p&gt;over the past 10 years, I have endeavoured on a search for the stringiest string. A string so stringy it strings all strings. I have journeyed through the string forests and galloped atop the string steeds. All of which lead me to the string tree atop the string mountain (strountain). It was so stringy. What a string.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
