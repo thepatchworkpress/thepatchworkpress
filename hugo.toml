@@ -17,7 +17,7 @@ theme = 'papermod'
 	weight = 2
 
 	[[menu.main]]
-	identifier = "box"
+	identifier = "sewing"
 	name = "Sewing"
 	url = "/sewing/"
 	weight = 3
