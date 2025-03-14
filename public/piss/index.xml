@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Piss on The Patchwork Press</title>
+    <link>http://localhost:1313/piss/</link>
+    <description>Recent content in Piss on The Patchwork Press</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Mar 2025 19:42:55 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/piss/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>House</title>
+      <link>http://localhost:1313/piss/house/</link>
+      <pubDate>Fri, 14 Mar 2025 19:42:55 +0000</pubDate>
+      <guid>http://localhost:1313/piss/house/</guid>
+      <description>&lt;h1 id=&#34;house-md&#34;&gt;House MD&lt;/h1&gt;&#xA;&lt;h2 id=&#34;smaller-house&#34;&gt;Smaller house&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;why&lt;/li&gt;&#xA;&lt;li&gt;is&lt;/li&gt;&#xA;&lt;li&gt;it called&lt;/li&gt;&#xA;&lt;li&gt;house of leaves&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;if that moron&lt;/li&gt;&#xA;&lt;li&gt;can&amp;rsquo;t get out&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>Soup</title>
+      <link>http://localhost:1313/piss/soup/</link>
+      <pubDate>Fri, 14 Mar 2025 19:42:27 +0000</pubDate>
+      <guid>http://localhost:1313/piss/soup/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
