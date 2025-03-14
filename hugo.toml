@@ -1,7 +1,7 @@
 baseURL = 'https://thepatchworkpress.github.io'
 languageCode = 'en-us'
 title = 'The Patchwork Press'
-theme = 'ananke'
+theme = 'papermod'
 
 [menu]
 	[[menu.main]]
@@ -15,3 +15,9 @@ theme = 'ananke'
 	name = "Secret"
 	url = "/box/"
 	weight = 2
+
+	[[menu.main]]
+	identifier = "first-post"
+	name = "Woaw"
+	url = "/first-post/"
+	weight = 3
