@@ -16,8 +16,8 @@ theme = 'papermod'
 	url = "/box/"
 	weight = 2
 
-	[[menu.main]]
-	identifier = "first-post"
-	name = "Woaw"
-	url = "/first-post/"
-	weight = 3
+	#[[menu.main]]
+	#identifier = "first-post"
+	#name = "Woaw"
+	#url = "/first-post/"
+	#weight = 3
