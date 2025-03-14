@@ -4,14 +4,6 @@ draft = false
 title = 'House'
 +++
 
-# House MD
+# *House*
 
-## Smaller house
-
-- why
-- is 
-- it called 
-- house of leaves
-
-1. if that moron
-7. can't get out
+House of Leaves (2000)? That's pretty cool!
