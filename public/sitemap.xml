@@ -2,31 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/sewing/bogdweller/</loc>
+    <loc>http://localhost:1313/stories/to-the-reader/</loc>
+    <lastmod>2025-03-25T00:57:43+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-03-15T21:40:15+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/scrapbook/bogdweller/</loc>
     <lastmod>2025-03-14T20:43:17+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/first-post/</loc>
     <lastmod>2025-03-14T20:43:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sewing/string/</loc>
+    <loc>http://localhost:1313/scrapbook/string/</loc>
     <lastmod>2025-03-14T20:43:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-03-14T20:43:17+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/house-so-good/</loc>
+    <loc>http://localhost:1313/nonfic/house-so-good/</loc>
     <lastmod>2025-03-14T19:42:55+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/house/</loc>
+    <loc>http://localhost:1313/nonfic/house/</loc>
     <lastmod>2025-03-14T19:42:55+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>http://localhost:1313/nonfic/</loc>
     <lastmod>2025-03-14T19:42:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sewing/</loc>
+    <loc>http://localhost:1313/scrapbook/</loc>
     <lastmod>2025-03-14T19:42:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/soup/</loc>
+    <loc>http://localhost:1313/stories/</loc>
+    <lastmod>2025-03-14T19:42:42+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/nonfic/soup/</loc>
     <lastmod>2025-03-14T19:42:27+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>

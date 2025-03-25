@@ -1,0 +1,101 @@
+baseURL: "https://thepatchworkpress.github.io"
+title: The Patchwork Press
+theme: papermod
+
+# enableRobotsTXT: true
+# buildDrafts: false
+# buildFuture: false
+# buildExpired: false
+
+#   env: production # to enable google analytics, opengraph, twitter-cards and schema.
+#   title: ExampleSite
+#   description: "ExampleSite description"
+#   keywords: [Blog, Portfolio, PaperMod]
+#   author: Me
+#   # author: ["Me", "You"] # multiple authors
+#   images: ["<link or path of image for opengraph, twitter-cards>"]
+#   DateFormat: "January 2, 2006"
+#   defaultTheme: auto # dark, light
+#   disableThemeToggle: false
+# 
+#   ShowReadingTime: true
+#   ShowShareButtons: true
+#   ShowPostNavLinks: true
+#   ShowBreadCrumbs: true
+#   ShowCodeCopyButtons: true
+#   ShowWordCount: true
+#   ShowRssButtonInSectionTermList: true
+#   UseHugoToc: true
+#   disableSpecial1stPost: false
+#   disableScrollToTop: false
+#   comments: false
+#   hidemeta: false
+#   hideSummary: false
+#   showtoc: false
+#   tocopen: false
+ 
+#   # profile-mode
+#   profileMode:
+#     enabled: false # needs to be explicitly set
+#     title: ExampleSite
+#     subtitle: "This is subtitle"
+#     imageUrl: "<img location>"
+#     imageWidth: 120
+#     imageHeight: 120
+#     imageTitle: my image
+#     buttons:
+#       - name: Posts
+#         url: posts
+#       - name: Tags
+#         url: tags
+# 
+#   # home-info mode
+#   homeInfoParams:
+#     Title: "Hi there \U0001F44B"
+#     Content: Welcome to my blog
+
+params:
+   socialIcons:
+    - name: x
+      url: "https://x.com/"
+    - name: stackoverflow
+      url: "https://stackoverflow.com"
+    - name: github
+      url: "https://github.com/"
+
+      #   analytics:
+      #     google:
+      #       SiteVerificationTag: "XYZabc"
+      #     bing:
+      #       SiteVerificationTag: "XYZabc"
+      #     yandex:
+      #       SiteVerificationTag: "XYZabc"
+
+      #   cover:
+      #     hidden: true # hide everywhere but not in structured data
+      #     hiddenInList: true # hide on list pages and home
+      #     hiddenInSingle: true # hide on single page
+
+      #   EditPost:
+      #     URL: "https://github.com/<path_to_repo>/content"
+      #     Text: "Suggest Changes" # edit text
+      #     appendFilePath: true # to append file path to Edit link
+
+menu:
+  main:
+    - identifier:
+      name: Home
+      url: /
+      weight: 1
+    - identifier: blog
+      name: Writting
+      url: /blog/
+      weight: 10
+    - identifier: sewing
+      name: Sewing
+      url: /sewing/
+      weight: 20
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 30

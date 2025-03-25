@@ -3,27 +3,41 @@ languageCode = 'en-us'
 title = 'The Patchwork Press'
 theme = 'papermod'
 
-[menu]
-	[[menu.main]]
-	identifier = ""
-	name = "Home"
-	url = "/"
-	weight = 1
-	
-	[[menu.main]]
-	identifier = "blog"
-	name = "Writing"
-	url = "/blog/"
-	weight = 2
+[params]
+  enableToc = true
 
-	[[menu.main]]
-	identifier = "sewing"
-	name = "Sewing"
-	url = "/sewing/"
-	weight = 3
+[[menu.main]]
+identifier = ""
+name = "Home"
+url = "/"
+weight = 1
 
-	#[[menu.main]]
-	#identifier = "first-post"
-	#name = "Woaw"
-	#url = "/first-post/"
-	#weight = 3
+[[menu.main]]
+identifier = "nonfic"
+name = "Essays"
+url = "/nonfic/"
+weight = 2
+
+[[menu.main]]
+identifier = "stories"
+name = "Stories"
+url = "/stories/"
+weight = 3
+
+[[menu.main]]
+identifier = "scrapbook"
+name = "Scrapbook"
+url = "/scrapbook/"
+weight = 4
+
+# [[params.socialIcons]]
+# name = "x"
+# url = "https://x.com/"
+# 
+# [[params.socialIcons]]
+# name = "stackoverflow"
+# url = "https://stackoverflow.com"
+# 
+# [[params.socialIcons]]
+# name = "github"
+# url = "https://github.com/"
