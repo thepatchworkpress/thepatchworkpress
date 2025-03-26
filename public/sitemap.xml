@@ -20,9 +20,6 @@
     <loc>http://localhost:1313/nonfic/house-so-good/</loc>
     <lastmod>2025-03-14T19:42:55+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/nonfic/house/</loc>
-    <lastmod>2025-03-14T19:42:55+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/nonfic/</loc>
     <lastmod>2025-03-14T19:42:42+00:00</lastmod>
   </url><url>
@@ -32,10 +29,9 @@
     <loc>http://localhost:1313/stories/</loc>
     <lastmod>2025-03-14T19:42:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/nonfic/soup/</loc>
-    <lastmod>2025-03-14T19:42:27+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/search/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>

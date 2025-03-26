@@ -3,8 +3,8 @@ languageCode = 'en-us'
 title = 'The Patchwork Press'
 theme = 'papermod'
 
-[params]
-  enableToc = true
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
 
 [[menu.main]]
 identifier = ""
@@ -30,14 +30,8 @@ name = "Scrapbook"
 url = "/scrapbook/"
 weight = 4
 
-# [[params.socialIcons]]
-# name = "x"
-# url = "https://x.com/"
-# 
-# [[params.socialIcons]]
-# name = "stackoverflow"
-# url = "https://stackoverflow.com"
-# 
-# [[params.socialIcons]]
-# name = "github"
-# url = "https://github.com/"
+[[menu.main]]
+identifier = "search"
+name = "Search"
+url = "/search/"
+weight = 5

@@ -2,6 +2,8 @@
 date = '2025-03-25T00:57:43Z'
 title = 'To The Reader'
 draft = true
+ShowReadingTime = true
+ShowToc = false
 +++
 
 Kill the idolater in your head: a poet is a lonely man.  
@@ -23,6 +25,7 @@ because to read is to write and to write
 is to destroy with  
 your power to carve into stone:  
 I WAS HERE, AND I FELT!  
+
 
 Write, because you are the poorest man in the graveyard.  
 Write as the worm that will one day feast on your corpse.  

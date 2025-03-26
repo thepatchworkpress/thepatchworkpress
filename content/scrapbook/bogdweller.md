@@ -1,6 +1,6 @@
 +++
 date = '2025-03-14T20:43:17Z'
-draft = false
+draft = true
 title = 'Bog'
 +++
 
