@@ -8,9 +8,9 @@ title = 'First Post'
 
 
 - bullet points
-
+this is normal text
 - woawo
-
+- this is a bulletpoint
 - A+E reference
 
 ### Top 10 names in A+E

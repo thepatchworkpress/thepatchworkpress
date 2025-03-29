@@ -13,8 +13,3 @@ If you want to keep up-to-date with my sewing projects, you can follow me as @th
 <img style="margin-bottom: 120px;">
 
 Writing projects will be appearing here very soon...
-
-<img style="margin-bottom: 120px;">
-
-Ambrose, The Patchwork Press <33
-
