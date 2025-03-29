@@ -1,3 +1,5 @@
 /public/
 /resources/
 hugo_stats.json
+public/index.json
+public/index.html
