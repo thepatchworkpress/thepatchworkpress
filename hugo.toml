@@ -1,16 +1,36 @@
 baseURL = 'https://thepatchworkpress.github.io'
 languageCode = 'en-us'
 title = 'The Patchwork Press'
-theme = 'papermod'
+theme = 'rusty-typewriter'
 
 [outputs]
-home = [ "HTML", "RSS", "JSON" ]
-
-[[menu.main]]
-identifier = ""
-name = "Home"
-url = "/"
-weight = 1
+ home = ["HTML","RSS"] #, "SearchIndex"]
+ 
+[rusty_typewriter]
+ [params.rtwt]
+  sidePane = true
+  countPageItems = 7 
+ [params.rtwt.home]
+  showBio = true
+  showAuthorImg = true
+  sidePaneTags = true
+  showFeatured = true
+  showRecent = true
+  hideRecentWhenFeatured = true
+  countRecent = 5
+ [params.rtwt.side.home]
+  sidePaneSticky = false 
+  taxonomies = ['tags']
+  countTaxonomy = 5
+ [params.rtwt.side.list]
+  sidePaneSticky = false
+ [params.rtwt.side.single]
+  sidePaneSticky = true 
+  showDetails = true
+  showTableOfContents = true
+  showAttachments = true
+  showRelated = true
+  countRelated = 5
 
 [[menu.main]]
 identifier = "nonfic"
