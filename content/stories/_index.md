@@ -4,4 +4,4 @@ draft = false
 title = 'Stories'
 +++
 
-Poetry + prose. Assumed fictional. 
+Assumed fictional. 

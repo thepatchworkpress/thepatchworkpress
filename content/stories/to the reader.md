@@ -2,9 +2,9 @@
 date = '2025-03-25T00:57:43Z'
 title = 'To The Reader'
 draft = false
-ShowReadingTime = true
+ShowReadingTime = false
 ShowToc = false
-tags = ["poem"]
+tags = ["poetry"]
 featured = true
 +++
 
@@ -28,10 +28,7 @@ is to destroy with
 your power to carve into stone:  
 I WAS HERE, AND I FELT!  
 
-
 Write, because you are the poorest man in the graveyard.  
 Write as the worm that will one day feast on your corpse.  
 
 _Written in York Cemetery 22/3/2025_.
-
-***
