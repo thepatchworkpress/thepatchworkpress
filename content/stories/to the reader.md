@@ -1,9 +1,11 @@
 +++
 date = '2025-03-25T00:57:43Z'
 title = 'To The Reader'
-draft = true
+draft = false
 ShowReadingTime = true
 ShowToc = false
+tags = ["poem"]
+featured = true
 +++
 
 Kill the idolater in your head: a poet is a lonely man.  

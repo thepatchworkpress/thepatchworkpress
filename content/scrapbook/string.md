@@ -2,6 +2,12 @@
 date = '2025-03-14T20:43:17Z'
 draft = true
 title = 'String'
+ShowReadingTime = true
+tags = ["poem"]
+my_taxonomies = ["value"]
+featured = true
+[params]
+  author = ''
 +++
 
 # My journey with strings

@@ -8,7 +8,7 @@ theme = 'rusty-typewriter'
  
 [rusty_typewriter]
  [params.rtwt]
-  sidePane = true
+  sidePane = true #ambrose note you were confused abt this
   countPageItems = 7 
  [params.rtwt.home]
   showBio = true

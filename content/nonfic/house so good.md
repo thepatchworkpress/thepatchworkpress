@@ -3,6 +3,9 @@ date = '2025-03-14T19:42:55Z'
 draft = true
 title = 'House'
 ShowReadingTime = true
+tags = ["poem"]
+my_taxonomies = ["value"]
+featured = true
 +++
 
 # If *House*
