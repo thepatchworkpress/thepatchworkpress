@@ -5,6 +5,8 @@ draft = false
 ShowReadingTime = false
 ShowToc = false
 tags = ["prose"]
+topics = ["wheeeeee"]
+series = ["gay people"]
 featured = true
 +++
 

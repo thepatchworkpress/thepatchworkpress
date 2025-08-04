@@ -4,8 +4,8 @@ draft = true
 title = 'House'
 ShowReadingTime = true
 tags = [""]
-my_taxonomies = ["value"]
-featured = true
+categories = ["wheeeeee", "yahoo"]
+featured = false
 +++
 
 # If *House*

@@ -4,7 +4,7 @@ draft = true
 title = 'Bog'
 ShowReadingTime = true
 tags = ["sewing"]
-my_taxonomies = ["value"]
+categories = ['yahoo']
 featured = true
 +++
 

@@ -2,35 +2,18 @@ baseURL = 'https://thepatchworkpress.github.io'
 languageCode = 'en-us'
 title = 'The Patchwork Press'
 theme = 'rusty-typewriter'
-
-[outputs]
- home = ["HTML","RSS"] #, "SearchIndex"]
  
-[rusty_typewriter]
- [params.rtwt]
-  sidePane = true #ambrose note you were confused abt this
-  countPageItems = 7 
- [params.rtwt.home]
-  showBio = true
-  showAuthorImg = true
-  sidePaneTags = true
-  showFeatured = true
-  showRecent = true
-  hideRecentWhenFeatured = true
-  countRecent = 5
- [params.rtwt.side.home]
-  sidePaneSticky = false 
-  taxonomies = ['tags']
-  countTaxonomy = 5
- [params.rtwt.side.list]
-  sidePaneSticky = false
- [params.rtwt.side.single]
-  sidePaneSticky = true 
-  showDetails = true
-  showTableOfContents = true
-  showAttachments = true
-  showRelated = true
-  countRelated = 5
+[params.rtwt.side.home]
+taxonomies = ['tags','series']
+countTaxonomy = 4
+
+[taxonomies]
+tag = 'tags'
+topic = 'topics'
+series = 'series'
+
+[params.author]
+name = 'Ambrose M Johnston'
 
 [[menu.main]]
 identifier = "nonfic"
@@ -50,8 +33,17 @@ name = "Scrapbook"
 url = "/scrapbook/"
 weight = 4
 
-[[menu.main]]
-identifier = "search"
-name = "Search"
-url = "/search/"
-weight = 5
+[outputFormats]
+ [outputFormats.SearchIndex]
+  mediaType = "application/json"
+  baseName = "searchindex"
+  isPlainText = true
+  notAlternative = true
+
+[mediaTypes]
+ [mediaTypes."application/json"]
+  suffixes = ["json"]
+
+[outputs]
+ home = ["HTML","RSS", "SearchIndex"]
+# ===================================
