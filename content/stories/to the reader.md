@@ -5,7 +5,8 @@ draft = false
 ShowReadingTime = false
 ShowToc = false
 tags = ["poetry"]
-categories = ["wheeeeee"]
+topics = ["reading and rereading"]
+series = ["quick reads"]
 featured = true
 +++
 

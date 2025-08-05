@@ -4,7 +4,9 @@ title = 'FUN: a guide for lonely and hysterical women'
 draft = false
 ShowReadingTime = false
 ShowToc = false
-tags = ["prose", "poetry"]
+tags = ["poetry"]
+topics = ["weird women"]
+series = ["quick reads"]
 featured = true
 +++
 

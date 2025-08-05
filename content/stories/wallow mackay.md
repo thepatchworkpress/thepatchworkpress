@@ -4,9 +4,9 @@ title = 'The Rot of Wallow Mackay'
 draft = false
 ShowReadingTime = false
 ShowToc = false
-tags = ["prose"]
-topics = ["wheeeeee"]
-series = ["gay people"]
+tags = ["short stories"]
+topics = ["weird women", "body horror"]
+series = ["quick reads"]
 featured = true
 +++
 
