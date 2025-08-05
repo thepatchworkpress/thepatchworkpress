@@ -5,7 +5,7 @@ title = 'Review: The Passion of New Eve by Angela Carter'
 ShowReadingTime = true
 ShowToc = true
 tags = ["review", "litcrit"]
-series = ["angela carter", "trans", "feminism",]
+series = ["angela carter", "feminism",]
 topics = ["on transness", "weird women", "reading and rereading"]
 featured = true
 +++
@@ -18,7 +18,7 @@ Despite being published in 1977 and in retrospect fairly predictable, _The Passi
 <i>Descend lower. You have not reached the end of the maze, yet.</i>
 </p>
 
-As part of my ongoing project to reinterpret 20th-century fabulist and pervert Angela Carter through a, frankly, self-serving transgender lens, I picked up _The Passion of New Eve_. After spending my undergraduate dissertation valiantly reinterpreting ‘Wolf-Alice’ as genderqueer masterpiece, I thought that Carter’s forced-feminisation novel was a very sensible next step. Bizarre, uncomfortable, unsatisfying yet exactly what I expected, _New Eve_ is a grotesque nightmare in every sense of the word: disgusting, violent, transphobic and decadent, wrapped up in something like a pubescent egg-about-to-crack’s fever dream. I have no idea if I loved it or hated it, if I was disturbed or enchanted – the confusing mix of emotions that keeps bringing me back to Carter again and again.
+As part of my ongoing project to reinterpret 20th-century fabulist and pervert Angela Carter through a, frankly, self-serving transgender lens, I picked up _The Passion of New Eve_. After spending my undergraduate dissertation valiantly reinterpreting ‘Wolf-Alice’ as a genderqueer masterpiece, I thought that Carter’s forced-feminisation novel was a very sensible next step. Bizarre, uncomfortable, unsatisfying yet exactly what I expected, _New Eve_ is a grotesque nightmare in every sense of the word: disgusting, violent, transphobic and decadent, wrapped up in something like a pubescent egg-about-to-crack’s fever dream. I have no idea if I loved it or hated it, if I was disturbed or enchanted – the confusing mix of emotions that keeps bringing me back to Carter again and again.
 
 I first heard about New Eve in a YouTube video I watched years ago, which I remember describing the plot roughly as: a misogynistic Englishman travels to America, and gets turned into a woman by a female separatist cult to make him to atone for his masculine sins. While all of this is technically true, it really only scratches the surface of what on earth is going on in this novel. Fleeing New York after impregnating a Jeanne-Duval-esque sex worker, Leilah, our protagonist Evelyn gets lost in the desert, the post-menopausal part of the earth (a deliciously colonial descriptor), travelling from violent place to violent place because he simply doesn’t know what else to do. Stylistically, _New Eve_ is the kind of strange, meandering adventure novel Carter (sort of) perfected in _Nights at the Circus_. The narrative is haunted by Tristessa, a Golden Age of Hollywood star who has been variously compared to Greta Garbo and Candy Darling, though I’d like to throw Blanche Dubois into the mix. The priestesses of Cybele model Evelyn’s new femininity on Tristessa’s onscreen persona. The twist? Tristessa is… a man? 
 
