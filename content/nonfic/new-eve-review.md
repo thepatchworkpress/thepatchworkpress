@@ -12,7 +12,16 @@ featured = true
 
 Despite being published in 1977 and in retrospect fairly predictable, _The Passion of New Eve_ took me by surprise many times, and the following review will contain spoilers. _New Eve_ also contains some quite brutal transmisogyny, misgendering and degendering, and sexual violence, which this review will discuss.
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmr-expert.com%2Fwp-content%2Fuploads%2F2018%2F07%2Fhera-picabia.jpg&f=1&nofb=1&ipt=c7d6b3917381ba1833acd33b84c261e2dd048a66da830a5a56447b793353c58d" alt="detail from 'Hera' by Francis Picabia, used as a cover for some editions of The Passion of New Eve" width="768"/>
+<style>
+.marginauto {
+    margin: 10px auto 20px;
+    display: block;
+}
+</style>
+
+<div>
+ <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmr-expert.com%2Fwp-content%2Fuploads%2F2018%2F07%2Fhera-picabia.jpg&f=1&nofb=1&ipt=c7d6b3917381ba1833acd33b84c261e2dd048a66da830a5a56447b793353c58d" alt="detail from 'Hera' by Francis Picabia, used as a cover for some editions of The Passion of New Eve" width="500" class="marginauto"/>
+</div>
 
 <p style="text-align: center;">
 <i>Descend lower. You have not reached the end of the maze, yet.</i>
