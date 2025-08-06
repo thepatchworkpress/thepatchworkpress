@@ -4,4 +4,4 @@ draft = false
 title = 'Essays'
 +++
 
-Ramblings pending...
+Ramblings, et. al.
