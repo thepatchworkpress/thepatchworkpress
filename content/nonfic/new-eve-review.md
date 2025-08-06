@@ -4,8 +4,8 @@ draft = false
 title = 'Review: The Passion of New Eve by Angela Carter'
 ShowReadingTime = true
 ShowToc = true
-tags = ["review", "litcrit"]
-series = ["angela carter", "feminism",]
+tags = ["angela carter", "litcrit", "feminism"]
+series = ["reviews"]
 topics = ["on transness", "weird women", "reading and rereading"]
 featured = true
 +++
