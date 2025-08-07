@@ -9,3 +9,11 @@ series = []
 topics = []
 featured = false
 +++
+
+<style>
+.marginauto {
+    margin: 10px auto 20px;
+    display: block;
+}
+</style>
+#centres images

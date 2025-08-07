@@ -33,6 +33,12 @@ name = "Scrapbook"
 url = "/scrapbook/"
 weight = 4
 
+[[menu.main]]
+identifier = "contact"
+name = "Contact"
+url = "/contact/"
+weight = 5
+
 [outputFormats]
  [outputFormats.SearchIndex]
   mediaType = "application/json"
