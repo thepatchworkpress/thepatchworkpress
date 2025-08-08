@@ -4,7 +4,7 @@ title = 'The Patchwork Press'
 theme = 'rusty-typewriter'
  
 [params.rtwt.side.home]
-taxonomies = ['tags','series']
+taxonomies = ['tags','series', 'topics']
 countTaxonomy = 4
 
 [taxonomies]

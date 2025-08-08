@@ -4,7 +4,7 @@ draft = false
 title = 'Contact'
 +++
 
-**The Patchwork Press** is on [Instagram](https://www.instagram.com/thepatchworkpress) and [Tumblr](https://www.tumblr.com/thepatchworkpress), where you can follow for scrapbook and [Etsy shop](https://mimsypatches.etsy.com) updates! I am working on setting up a mailing list where so you can get regular updates about blog posts and my shop straight to your inbox.
+**The Patchwork Press** is on [Instagram](https://www.instagram.com/thepatchworkpress) and [Tumblr](https://www.tumblr.com/thepatchworkpress), where you can follow for scrapbook and [Etsy shop](https://mimsypatches.etsy.com) updates! I am working on setting up a mailing list so you can get regular updates about blog posts and my shop straight to your inbox.
 
 For specific queries, please email enquiries.patchworkpress@gmail.com or DM me on Instagram or Etsy!
 
@@ -21,23 +21,45 @@ I am currently available to commission for embroidery and writing projects. Plea
 
 ## Rates
 
-### For Cross-Stitched Patches
+The following is a rough price guide for how I price my work, however this is always subject to the needs of your order and the piece(s)!
 
-Prices for cross-stitched patches (examples below) are roughly calculated with a flat rate based on the size of the piece, plus letter pricing.
+### Applique Patches
+
+Applique designs are priced based on size, plus an additional rate for any additional embroidery.
+
+| Size (cm^2) | Price  |
+|-------------|--------|
+| < 50        | £12.00 |
+| 50 - 100    | £14.00 |
+| 100 - 250   | £18.00 |
+| > 250       | £20.00 |
+
+The design can be left unbacked and unhemmed for a reduced price.
+
+### Cross-Stitched Patches
+
+Cross-stitched patches are priced based on size, plus an additional fee per letter.
 
 | Size (cm^2) | Price |
 |-------------|-------|
-| < 50        | £4.50 |
-| 50 - 70     | £5.25 |
-| 70 - 90     | £5.75 |
-| > 90        | £6.00 |
+| < 40        | £4.50 |
+| 40 - 80     | £5.25 |
+| > 80        | £6.00 |
 
-plus
+
 
 | Letter style                 | Price per letter |
 |------------------------------|------------------|
 | Large (upper and lower case) | £0.30            |
 | Small (upper case)           | £0.15            |
+
+### Embroidery, Applique or Darning on a Clothing Item
+
+If you are interested in commissioning an alteration on a clothing item, please email enquiries.patchworkpress@gmail.com to negotiate a quote. You must cover shipping.
+
+### Writing
+
+Minimum 200 words priced at approx. £0.08 per word, subject to the amount of time any additional research needed to write the piece requires. I'm happy to write in any style or form you see on The Patchwork Press, with full credit to Ambrose M Johnston and The Patchwork Press.
 
 ### Shipping
 
@@ -48,7 +70,7 @@ If your commission requires shipping, postage will be in addition to the price o
 | Basic   | £1.00 | £2.20         |
 | Tracked | £3.30 | £7.20         |
 
-I typically ship with Royal Mail. If you would prefer to pay for an alternative provider please let me know!
+I typically ship with Royal Mail. If you would prefer to pay for an alternative postage provider please let me know!
 
 ## Stock Items Made-To-Order
 
