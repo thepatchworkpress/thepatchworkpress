@@ -4,8 +4,8 @@ draft = false
 title = 'Scrapbook'
 
 [rtwt]
- sidePane = false
- sidePaneSticky = false
+ sidePane = true
+ sidePaneSticky = true
 +++
 
 Arts and crafts <33

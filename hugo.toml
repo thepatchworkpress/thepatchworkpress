@@ -3,14 +3,36 @@ languageCode = 'en-us'
 title = 'The Patchwork Press'
 theme = 'rusty-typewriter'
  
-[params.rtwt.side.home]
-taxonomies = ['tags','series', 'topics']
-countTaxonomy = 4
-
 [taxonomies]
 tag = 'tags'
 topic = 'topics'
 series = 'series'
+
+[rusty_typewriter]
+ [params.rtwt]
+  sidePane = true
+  countPageItems = 7 
+ [params.rtwt.home]
+  showBio = false
+  showAuthorImg = false
+  sidePaneTags = true
+  showFeatured = true
+  showRecent = true
+  hideRecentWhenFeatured = true
+  countRecent = 5
+ [params.rtwt.side.home]
+  sidePaneSticky = true
+  taxonomies = ['tags']
+  countTaxonomy = 5
+ [params.rtwt.side.list]
+  sidePaneSticky = true
+ [params.rtwt.side.single]
+  sidePaneSticky = true 
+  showDetails = true
+  showTableOfContents = true
+  showAttachments = true
+  showRelated = true
+  countRelated = 5
 
 [params.author]
 name = 'Ambrose M Johnston'

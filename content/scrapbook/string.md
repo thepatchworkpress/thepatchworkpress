@@ -4,10 +4,13 @@ draft = true
 title = 'String'
 ShowReadingTime = true
 tags = ["poem"]
-my_taxonomies = ["value"]
+topics = ["gayboy"]
+series = ["strings"]
 featured = true
-[params]
-  author = ''
+
+[rtwt]
+ sidePane = true
+ sidePaneSticky = true
 +++
 
 # My journey with strings
