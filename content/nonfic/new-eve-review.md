@@ -7,7 +7,7 @@ ShowToc = true
 tags = ["angela carter", "litcrit", "feminism"]
 series = ["reviews"]
 topics = ["on transness", "weird women", "reading and rereading"]
-featured = true
+featured = false
 +++
 
 Despite being published in 1977 and in retrospect fairly predictable, _The Passion of New Eve_ took me by surprise many times, and the following review will contain spoilers. _New Eve_ also contains some quite brutal transmisogyny, misgendering and degendering, and sexual violence, which this review will discuss.

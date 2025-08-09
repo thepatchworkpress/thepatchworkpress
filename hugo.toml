@@ -13,7 +13,7 @@ series = 'series'
   sidePane = true
   countPageItems = 7 
  [params.rtwt.home]
-  showBio = false
+  showBio = true
   showAuthorImg = false
   sidePaneTags = true
   showFeatured = true
@@ -22,7 +22,7 @@ series = 'series'
   countRecent = 5
  [params.rtwt.side.home]
   sidePaneSticky = true
-  taxonomies = ['tags']
+  taxonomies = ['topics', 'series', 'tags']
   countTaxonomy = 5
  [params.rtwt.side.list]
   sidePaneSticky = true

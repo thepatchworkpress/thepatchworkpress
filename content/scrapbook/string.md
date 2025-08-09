@@ -4,7 +4,7 @@ draft = true
 title = 'String'
 ShowReadingTime = true
 tags = ["poem"]
-topics = ["gayboy"]
+topics = [""]
 series = ["strings"]
 featured = true
 
