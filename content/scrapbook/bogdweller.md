@@ -3,9 +3,9 @@ date = '2025-03-14T20:43:17Z'
 draft = true
 title = 'Bog'
 ShowReadingTime = true
-tags = ["sewing"]
-categories = ['yahoo']
-featured = true
+tags = [""]
+categories = [""]
+featured = false
 +++
 
 # Bog dweller patch!!!!!!

@@ -3,17 +3,7 @@ image = ""
 greetings = "Welcome to The Patchwork Press!"
 text = "A digital scrapbook."
 
-[[side.home]]
-title = "Follow The Patchwork Press on Social Media!"
-imagePath = "images/instagram.png"
-imageHref = "https://www.instagram.com/thepatchworkpress"
-imageWidth = "20%"
-
 
 [[side.home]]
 title = "About the Author"
-content = "THE PATCHWORK PRESS is a creative project by Ambrose Melissa Johnston, a writer and artist based in Yorkshire."
-imagePath = "images/about-the-author.jpg"
-imageHref = ""
-imageWidth = "80%"
-
+content = "THE PATCHWORK PRESS is a creative project by Ambrose Melissa Johnston, a writer and artist based in Yorkshire. Combining Johnston's embroidery work with their other creative interests, The Patchwork Press is a digital scrapbook celebrating mixed-media storytelling, where Johnston shares their evolving interests, ideas and skills. Their writing often concerns gender, capitalism, the Gothic and the reader; you can browse it, if you like. He hopes this particular story finds you well."

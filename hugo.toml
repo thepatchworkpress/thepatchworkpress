@@ -22,7 +22,7 @@ series = 'series'
   countRecent = 5
  [params.rtwt.side.home]
   sidePaneSticky = true
-  taxonomies = ['topics', 'series', 'tags']
+  taxonomies = ['topics', 'series']
   countTaxonomy = 5
  [params.rtwt.side.list]
   sidePaneSticky = true

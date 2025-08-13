@@ -3,10 +3,10 @@ date = '2025-03-14T20:43:17Z'
 draft = true
 title = 'String'
 ShowReadingTime = true
-tags = ["poem"]
+tags = [""]
 topics = [""]
-series = ["strings"]
-featured = true
+series = [""]
+featured = false
 
 [rtwt]
  sidePane = true
