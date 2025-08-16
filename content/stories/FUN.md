@@ -1,5 +1,5 @@
 +++
-date = '2025-06-22T00:57:43Z'
+date = '2025-01-01T00:57:43Z'
 title = 'FUN: a guide for lonely and hysterical women'
 draft = false
 ShowReadingTime = false

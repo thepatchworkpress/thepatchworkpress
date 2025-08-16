@@ -4,9 +4,9 @@ draft = true
 title = 'Purity, Puberty and Rewriting the Sadeian Fairy Tale: The Bloody Chamber, Wolf-Alice and The Company of Wolves by Angela Carter'
 ShowReadingTime = true
 ShowToc = true
-tags = ["angela carter", "academic", "litcrit", "feminism"]
+tags = ["angela carter", "the bloody chamber and other stories", "the sadeian woman", "academic", "litcrit", "feminism"]
 series = ["essays from my undergrad"]
-topics = ["body horror", "reading and rereading", "fairy tales", "weird women"]
+topics = ["body horror", "adolescence", "sexuality and eroticism", "reading and rereading", "fairy tales", "weird women"]
 featured = false
 +++
 
@@ -94,6 +94,121 @@ It would be limiting to read the ‘Wolf-Alice’s genderqueer themes only in re
 
 ## iii.	Demythologising Meat: ‘The Company of Wolves’
 
+Carter employs both of these responses to Justine in ‘The Company of Wolves’. Carter’s Red Riding Hood (who I will refer to as ‘Red’) begins as a Justine and ends as a wolf-woman. Though her love interest is ostensibly Sadeian, Red plays the narrative expectations around her to her advantage: she remains ‘nobody’s meat’.[^78] Subverting the tradition of ‘Red Riding Hood’ as a tale that teaches children to fear predatory men, Carter embraces the idea that female desire is rarely safe or sanitised: the werewolf’s appeal is that he is a “bad boy” with a voracious appetite for blood.[^79]
+
+In Little Red Riding Hood Uncloaked, Orenstein explores the various manifestations of the sexual subtext of the ‘Red Riding Hood’ tale in literature and popular culture. As with ‘Bluebeard’, Orenstein writes, Perrault rewrote ‘Red Riding Hood’ from folk tradition to parody the sexual politics of the French courts. Orenstein notes that ‘in the common slang of the day, even in the scholarly works of Charles Perrault, when a girl lost her virginity it was said that elle avoit vû le loup – “she’d seen the wolf”’; Perrault intended the tale as a deliberate sexual allegory.[^80] Sexual predation thus underpins the ‘Red Riding Hood’ tale: Red loses her virginity because of deception and cannibalistic violence. Bettelheim’s psychoanalytic reading of the tale consolidates this view. He sees an intrinsic link between symbols of violence and symbols of sexuality: ‘red is the color symbolizing violent emotions, very much including sexual ones’.[^81] He continues, 
+
+> The red velvet cap given by Grandmother to Little Red Cap thus can be viewed as a premature transfer of sexual attractiveness, which is further accentuated by the grandmother’s being old and sick, too weak to even open a door. The name “Little Red Cap”… suggests that not only is the red cap little but also the girl. She is too little, not for wearing the cap, but for managing what this red cap symbolizes, and what danger her wearing it invites.[^82]
+
+Carter’s play on the latent sexuality of the tale subverts the sexual fear that underlies other versions. The wolf is established as a Sadeian character that Red, a virginal Justine, is taught to fear. The tale’s opening lays out superstitious beliefs about the wolf: ‘carnivore incarnate… as cunning as he is ferocious; once he’s had a taste of flesh then nothing else will do’.[^83] His biology justifies his violence:
+
+> Those slavering jaws; the lolling tongue; the rime of saliva on the grizzled chops – of all the teeming perils of the night and the forest… the wolf is the worst for he cannot listen to reason.[^84]
+
+Evolutionary psychology states the wolf is driven by instincts alone. It is no mistake that in this description, the wolf is a ‘he’: his wolfishness is intrinsically linked to his violent, predatory masculinity. The wolf’s urges are figured in the language of flesh and meat, paralleling how Carter describes Sade’s portrayals of desire at the end of _The Sadeian Woman_: 
+
+> In the English language, we make a fine distinction between flesh, which is usually alive and, typically, human, and meat, which is dead, inert, animal and intended for consumption […] Sade explores the inhuman sexual possibilities of meat; it is a mistake to think that the substance of which his actors are made is flesh. There is nothing alive or sensual about them.[^85]
+
+The wolf’s appetite is Sadeian: sexual, predatory and devoid of sensuality or ‘reason’. Indeed, contradicting the tale’s introduction, the wolf derives as much pleasure from misleading an innocent Red as he does from eating her. Disguising himself as a human, he seduces Red in fairy-tale terms: ‘a fine fellow’, any promise of sexuality is limited to ‘a kiss’.[^86] Not only do these descriptors establish a sanitised sexuality to subvert, they emphasise Red’s sexual inexperience and youth. Indeed, Red’s virginity is central to her characterisation. Her red shawl is compared to ‘blood on snow’, mirroring the image of blood on white sheets in lost virginity.[^87] She is in the early stages of puberty, having ‘just started her woman’s bleeding’:
+
+> She stands and moves within the invisible pentacle of her own virginity. She is an unbroken egg; she is a sealed vessel; she has inside her a magic space the entrance to which is shut tight with the plug of a membrane; she is a closed system…[^88]
+
+In _The Sadeian Woman_, Carter writes that patriarchal myth considers the womb ‘the most sacred of all places’.[^89] Here, she takes this idea further: Red’s womb is sacred _because_ she is ‘a sealed vessel’. For her womb to be opened up, her hymen must be ‘broken’; her virginity must be degraded. An ‘egg’, she is not only young, but implicitly ovulating, and by extension, menstrual. Her youth, therefore, is defined by her womb’s potential for corruption by bloody rites of passage into womanhood. This paragraph ends, ‘she does not know how to shiver. She has her knife and she is afraid of nothing.’[^90] An allusion to the tale popularised by the Brothers Grimm, Carter’s Red is brave but naïve. She is determined to establish her independence, but, like ‘The Bloody Chamber’s protagonist, she must experience fear in self-determine. That she ‘does not know how to shiver’ also suggests sexual naivety. Her erotic appeal is like Justine’s: she is attractive precisely because she is naïve and can be hurt.
+
+Nevertheless, Red is revealed to be a cannier character than the narrator anticipates. Writing on Carter’s ‘wolf trilogy’, Kimberly J. Lau argues that in ‘The Company of Wolves’, Carter creates the ‘moral pornography’ she writes of in _The Sadeian Woman_, one which ‘accounts for the power relations and material realities implicit in every sexual act’.[^91] In Carter’s ‘pornographic’ retelling of ‘Red Riding Hood’, both the male and female characters are eroticised, contrasting ‘The Bloody Chamber’ where only the protagonist is pornographic object. For Lau, Red is ‘both innocent and knowing’: she follows a pornographic script, asking what the wolf wants from her ‘disingenuously’ and understanding the ‘commonplaces of a rustic seduction’.[^92] While Lau argues that Carter’s Red is ‘the typical male fantasy’, this indicates that she is deliberately engaging with a courtship ritual favoured by heteronormative gender roles, indicating a self-awareness the narrator fails to recognise. In Carter’s tale, Red is not deceived by a Sadeian trap, but establishes herself as a Justine in order to express her sexuality.
+
+Over the course of the tale, Red seems to embody a non-typical sense of aging, not just in her pubescent body but in her attitude and confidence, changing rapidly from naive to sexually confident. Bettelheim writes that ‘throughout fairy-tale literature, death of the hero… symbolizes his failure’; in ‘Red Riding Hood’, Red’s death and ‘rebirth’ symbolizes a process of maturation: the death of her childhood and her rebirth as an adult.[^93] Carter, however, replaces Red’s death and rebirth by the metaphorical “death” of girlhood, loss of virginity. Unlike ‘The Bloody Chamber’s protagonist, Red is not passive to this process. When she meets the wolf in her grandmother’s house, she ‘shiver[s]’, learning fear, and ‘pull[s] [her shawl] more closely round herself’, attempting to cover up her body which suddenly feels exposed.[^94] The shawl, the narrator tells us, is ‘as red as the blood she must spill’, foreshadowing implicitly sexual violence.[^95] However, Red subverts this prediction:
+
+> She closed the window on the wolves’ threnody and took off her scarlet shawl, the colour of poppies, the colour of sacrifices, the colour of her menses, and, since her fear did her no good, she ceased to be afraid.[^96]
+
+Red stops playing the Justine, the ‘holy’ virgin ‘capable of being desecrated’.[^97] In undressing herself, she removes herself from the language of blood: the shed blood of her lost virginity is only metaphorical in her removal of the red shawl. Red’s ‘untouched’, ‘immaculate flesh’ remains part of her appeal to the wolf, but she gives her virginity eagerly, ‘ripp[ing] off his shirt’ and initiating all touch.[^98] Carter’s distinction between ‘flesh’ and ‘meat’ is its most overt at the end of this tale: Red ‘knew she was nobody’s meat’.[^99] Lau writes that this proclamation ‘removes her from the dominant patriarchal realm of pornography’: not ‘meat’, a pornographic object, but flesh capable of experiencing sensuality.[^100]
+
+Syntactically, the tale’s ending loses coherence: Red exits the symbolic order to become a wolf herself. Ostensibly, read alongside ‘Wolf-Alice’, Red’s wolfishness suggests that embracing her sexuality defeminises her. In rejecting the role of a Justine to pursue a mutually erotic sexuality, she rejects the gendered expectations of her virginity and her femininity, becoming closer to the animalistic man. However, through animalistic imagery, the two tales celebrate self-realisation outside the social mythology of womanhood. Red and Wolf-Alice come-of-age into a wolf-_and_-womanhood: both human and animal, both masculine and feminine, gendered and sexual norms flipped inside out and redefined. 
+
+## Conclusion
+
+In her exploration of Juliette, Carter argues that Sade presents womanhood similarly to how he presents poverty:
+
+> To be a woman is to be automatically at a disadvantage in a man’s world, just like being poor, but to be a woman is a more easily remedied condition. If she abandons the praxis of femininity, then it is easy enough to enter the class of the rich, the men, provided one enters it on the terms of that class.[^101]
+
+Like ‘The Bloody Chamber’s Marquis, Sade’s men are a wealthy elite whose sexuality is defined by a social dominance that women lack. While Juliette can reject femininity to obtain wealth, her marriage to Noirceuil necessitates a gendered hierarchy that renders her lesser. If Juliette is Sade’s answer to female gender non-conformity, his model of gender rejects the possibility of female emancipation from patriarchy. 
+
+Carter highlights Sade’s ‘fairy tale’ logic and flips it on its head in _The Bloody Chamber and Other Stories_. Neither the Sadeian binary of vice and virtue, nor the fairy-tale binary of gender apply to her bestial women. Embracing her sexuality renders Red outside womanhood and thus humanity in the eyes of her narrator; the dual wolf-and-woman identities of Wolf-Alice and the Duke suggest genderqueerness. If pornography and fairy tales exist in a ‘black and white’ gendered logic, Carter rewrites both genres to suggest complex ideas about gender beyond their parameters.
+
+Nevertheless, Carter writes within the context of cultural mythologies of femininity. If ‘The Bloody Chamber’s protagonist is a Justine, then she also fulfils ideas about femininity espoused by Christianity, evolutionary psychology and the horror film. The feminine virtue of Justine and her ‘literary granddaughters’ cannot exist without masculine vice asserting its dominance over the feminine, be this through violence or marginalisation. In ‘The Bloody Chamber’, ‘Wolf-Alice’ and ‘The Company of Wolves’, Carter brings the blood of purity and puberty to the surface, illuminating how female experiences of adolescence were, traditionally, marginalised by the literary fairy tale. Carter’s tales do not provide a straightforward model for womanhood, and do not serve to teach the reader a lesson about coming-of-age. Instead, Carter ‘performatively reads’ gendered hierarchies throughout the collection. _The Sadeian Woman_ is a vital intertext to this ‘demythologisation’: in both texts, Carter ‘reads into’ cultural mythologies and rewrites their ideas about innate feminine virtue, in often contradictory ways. While her protagonists learn about themselves in their stories, Carter only complicates questions of gendered subjectivity.
+
+***
+
+## Bibliography
+
+### _Works Cited_
+
+Bernhardt-House, Phillip A. ‘The Werewolf as Queer, the Queer as Werewolf, and Queer Werewolves.’ In _Queering the Non/Human_, edited by Myra J. Hird and Noreen Giffney, 207-236. Routledge, 2008.
+
+Bettelheim, Bruno. _The Uses of Enchantment_. Penguin, 1991. First published in 1976.
+
+Carter, Angela. _The Bloody Chamber and Other Stories_. Vintage, 2006. First published in 1979.
+
+---. _The Fairy Tales of Charles Perrault_. Penguin, 2008. First published in 1977.
+
+---. _The Sadeian Woman: An Exercise in Cultural History_. Virago Press, 1979.
+
+---. ‘Notes from the Front Line’. In _On Gender and Writing_, edited by Michelene Wandor, 69-77. Pandora Press, 1983. 
+
+---. ‘Afterword’. In _Fireworks: Nine Stories in Various Disguises_, 132-133. Harper Colophon, 1982. First published in 1974 as _Fireworks: Nine Profane Pieces_. 
+
+---. ‘We’re Not Dealing with Naturalism Here: An Interview with Angela Carter.’ Interview by Susan Bernofsky. _Conjunctions_ 40 (2003): 161-172.
+
+Evans, Walter. ‘Monster Movies: A Sexual Theory.’ _Journal of Popular Film_ 2, no. 4 (1973): 353-365.
+
+Henstra, Sarah M. ‘The pressure of new wine: Performative reading in Angela Carter’s The Sadeian Woman.’ _Textual Practise_ 13, no. 1 (1999): 91-117.
+
+Homer, Sean. _Jacques Lacan_. Routledge, 2005.
+
+Hutton, Ronald. ‘Finding a Goddess’. In _The Triumph of the Moon: A History of Modern Pagan Witchcraft_, 32-42. Oxford University Press, 1999.
+
+Jennings, Kristine. ‘Moonlit Mirrors, Bloody Chambers and Tender Wolves: Identity and Sexuality in Angela Carter’s “Wolf-Alice”’. _Studies in the Literary Imagination_ 47, no. 1 (2014): 89-110.
+
+Lau, Kimberly J. ‘Erotic Infidelities: Angela Carter’s Wolf Trilogy’. _Marvels and Tales_ 22, no. 1 (2008): 77-94.
+
+Laws, Sophie. _Issues of Blood: The Politics of Menstruation_. Macmillan Press, 1990. 
+
+Manley, Kathleen E. B. ‘The Woman in Process in Angela Carter’s “The Bloody Chamber”’. In _Angela Carter and the Fairy Tale_, edited by Danielle M. Roemer and Cristina Bacchilega, 83-93. Wayne State University Press, 2001. First published in 1998 as _Marvels and Tales_ 12, no. 1.
+
+Meet Me Where I Am. ‘According to the Bible, why do women have periods?’. _Meet Me Where I Am_. Feb 15th 2022. Accessed Apr 18th 2025. https://whereiam.blog/2022/02/15/according-to-the-bible-why-do-women-have-periods/.
+
+Mulvey, Laura. ‘Visual Pleasure and Narrative Cinema’. In _The Norton Anthology of Theory and Criticism, Third Edition_, edited by Vincent B. Leitch, William E. Cain, Laurie A. Finke, John McGowan, T. Denean Sharpley-Whiting, Jeffrey J. Williams, 1954-1965. W. W. Norton & Company, Inc., 2018.
+
+Orenstein, Catherine. _Little Red Riding Hood Uncloaked: Sex, Morality and the Evolution of a Fairy Tale_. Basic Books, 2002.
+
+Piluso, Francesco. ‘Above the heteronormative narrative: looking up the place of Disney’s villains.’ _Semiotica_ 255 (2023): 131-148.
+
+Rosewarne, Lauren. _Periods in Pop Culture: Menstruation in Film and Television_. Lexington Books, 2012.
+
+Schanoes, Veronica. ‘Fearless Children and Fabulous Monsters: Angela Carter, Lewis Carroll and Beastly Girls.’ _Marvels and Tales_ 26, no. 1 (2012): 30-44.
+
+Schell, Heather. ‘The Big Bad Wolf: Masculinity and Genetics in Popular Culture’. _Literature and Medicine_ 26, no. 1 (2007): 109-125.
+
+Schwarz, Caitlin. ‘The Feral Child: Blurring the Boundary Between the Human and Animal.’ _Sloth_ 2, no. 1 (2016). Accessed May 10th 2025. https://www.animalsandsociety.org/research/sloth/sloth-volume-2-no-1-winter-2016/7365-2/. 
+
+Sheets, Robin Ann. ‘Pornography, Fairy Tales, and Feminism: Angela Carter’s “The Bloody Chamber”’. _Journal of the History of Sexuality_ 1, no. 4 (1991): 633-657.
+
+University of Cambridge Museums. ‘The Annunciation.’ _The Fitzwilliam Museum_. Accessed Apr 18th 2025. https://fitzmuseum.cam.ac.uk/explore-our-collection/highlights/context/sign-and-symbols/the-annunciation/. 
+
+Williams, Linda. ‘Power, Pleasure and Perversion: Sadomasochistic Film Pornography’. In _Hard Core: Power, Pleasure and the “Frenzy of the Visible”_, 184-228. University of California Press, 1989.
+
+World of Tales. ‘Mr Fox’. _World of Tales_. Accessed May 5th 2025. https://www.worldoftales.com/European_folktales/English_folktale_110.html#gsc.tab=0.	
+
+### _Works Consulted_
+
+Carter, Angela. ‘Interview for Marxism Today’s “Left Alive”.’ Interview by _Marxism Today_. Accessed Apr 9th 2025. https://www.angelacarter.co.uk/interview-for-marxism-todays-left-alive/. 
+
+_The Company of Wolves_. Directed by Neil Jordan. ITC Entertainment, 1984. Film. 
+
+Kerkham, Patricia. ‘Menstruation – the Gap in the Text?’. _Psychoanalytic Psychotherapy_ 17, no. 4 (2003): 279-299.
+
+Zipes, Jack. ‘Foreword: Grounding the Spell: The Fairy Tale Film and Transformation’. In _Fairy Tale Films: Visions of Ambiguity_, edited by Pauline Greenhill and Sidney Eve Matrix, ix-xiv. University Press of Colorado, 2010.
+
+
 [^1]: Angela Carter, _The Sadeian Woman: An Exercise in Cultural History_ (Virago Press, 1979), 64; ibid., 44. 
 [^2]: Ibid., 93.
 [^3]: Ibid., 162.
@@ -171,3 +286,27 @@ It would be limiting to read the ‘Wolf-Alice’s genderqueer themes only in re
 [^75]: Carter, _The Sadeian Woman_, 113.
 [^76]: Ibid., 114.
 [^77]: Carter, 'Wolf-Alice', 146.
+[^78]: Carter, ‘The Company of Wolves’, 138. Subsequent footnotes will abbreviate ‘The Company of Wolves’ to ‘CW’.
+[^79]: 'Red Riding Hood’ here incorporates variations of the tale called ‘Little Red Cap’.
+[^80]: Orenstein, _Little Red Riding Hood Uncloaked_, 26.
+[^81]: Bettelheim, _Uses of Enchantment_, 173.
+[^82]: Ibid., 173.
+[^83]: Carter, 'CW', 129.
+[^84]: Ibid., 129-130.
+[^85]: Carter, _The Sadeian Woman_, 161-162.
+[^86]: Carter, 'CW', 134-135.
+[^87]: Ibid., 133.
+[^88]: Ibid., 133.
+[^89]: Carter, _The Sadeian Woman_, 125.
+[^90]: Carter, 'CW', 133.
+[^91]: Kimberly J. Lau, ‘Erotic Infidelities: Angela Carter’s Wolf Trilogy’, _Marvels and Tales_ 22, no. 1 (2008): 84
+[^92]: Ibid., 87; Carter, ‘CW’, 135.
+[^93]: Bettelheim, _Uses of Enchantment_, 181; ibid., 183.
+[^94]: Carter, ‘CW’, 137.
+[^95]: Ibid., 137.
+[^96]: Ibid., 138.
+[^97]: Carter, _The Sadeian Woman_, 83.
+[^98]: Carter, ‘CW’, 138.
+[^99]: Ibid., 138.
+[^100]: Lau, ‘Erotic Infidelities’, 87.
+[^101]: Carter, _The Sadeian Woman_, 90

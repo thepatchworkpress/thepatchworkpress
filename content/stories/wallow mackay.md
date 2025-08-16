@@ -1,12 +1,12 @@
 +++
-date = '2025-06-22T00:57:43Z'
+date = '2025-01-01T00:57:43Z'
 title = 'The Rot of Wallow Mackay'
 draft = false
 ShowReadingTime = false
 ShowToc = false
 tags = ["short stories"]
 topics = ["weird women", "body horror"]
-series = ["quick reads"]
+series = ["quick reads", "elegy for eden, unmade"]
 featured = true
 +++
 
