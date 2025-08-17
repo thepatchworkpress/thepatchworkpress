@@ -21,7 +21,7 @@ I am currently available to commission for embroidery and writing projects. Plea
 
 ## Rates
 
-The following is a rough price guide for how I price my work, however this is always subject to the needs of your order and the piece(s)!
+The following is a rough price guide for how I price my work, however this is always subject to the needs of your order and the piece(s).
 
 ### Applique Patches
 

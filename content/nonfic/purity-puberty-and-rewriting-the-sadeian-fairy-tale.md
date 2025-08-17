@@ -1,5 +1,5 @@
 +++
-date = '2025-06-19T12:41:56+01:00'
+date = '2025-05-19T12:41:56+01:00'
 draft = true
 title = 'Purity, Puberty and Rewriting the Sadeian Fairy Tale: The Bloody Chamber, Wolf-Alice and The Company of Wolves by Angela Carter'
 ShowReadingTime = true
@@ -10,7 +10,9 @@ topics = ["body horror", "adolescence", "sexuality and eroticism", "reading and 
 featured = false
 +++
 
-The following essay was originally submitted as my undergraduate dissertation in English Literature, originally titled 'the new skin that had been born... of her bleeding: Purity, Puberty and Rewriting the Sadeian Fairy Tale in Angela Carter's _The Bloody Chamber and Other Stories_', achieving a 70/100 mark. I decided I wanted to share it on my blog because it is my absolute baby: I put my heart and soul into this essay, and I was super happy to get a First on it. It definitely has its flaws; my main piece of feedback, that the second chapter on 'Wolf-Alice' doesn't fit very well with the rest of my argument, is definitely true. However, since the 'Wolf-Alice' chapter was my favourite to write, I've left it in. I hope you enjoy reading it!
+This essay was originally submitted as my undergraduate dissertation in English Literature, originally titled 'the new skin that had been born... of her bleeding: Purity, Puberty and Rewriting the Sadeian Fairy Tale in Angela Carter's _The Bloody Chamber and Other Stories_', achieving a 70/100 mark. I decided I wanted to share it on my blog because it is my absolute baby: I put my heart and soul into this essay, and I was super happy to get a First on it. It definitely has its flaws; my main piece of feedback, that the second chapter on 'Wolf-Alice' doesn't fit very well with the rest of my argument, is definitely true. However, since the 'Wolf-Alice' chapter was my favourite to write, I've left it in. I hope you enjoy reading it!
+
+_This essay discusses sexual violence._
 
 ***
 
