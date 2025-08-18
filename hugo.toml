@@ -41,19 +41,19 @@ name = 'Ambrose M Johnston'
 identifier = "nonfic"
 name = "Essays"
 url = "/nonfic/"
-weight = 2
+weight = 3
 
 [[menu.main]]
 identifier = "stories"
 name = "Stories"
 url = "/stories/"
-weight = 3
+weight = 4
 
 [[menu.main]]
 identifier = "scrapbook"
 name = "Scrapbook"
 url = "/scrapbook/"
-weight = 4
+weight = 2
 
 [[menu.main]]
 identifier = "contact"

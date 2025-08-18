@@ -1,6 +1,6 @@
 +++
 date = '2025-05-27T14:48:03+01:00'
-draft = true
+draft = false
 title = 'Dreams, sick horror and exploding pleasure: Destabilising Colonial Erotic Hierarchy in Split Tooth by Tanya Tagaq'
 ShowReadingTime = true
 ShowToc = true

@@ -1,6 +1,6 @@
 +++
 date = '2025-05-19T12:41:56+01:00'
-draft = true
+draft = false
 title = 'Purity, Puberty and Rewriting the Sadeian Fairy Tale: The Bloody Chamber, Wolf-Alice and The Company of Wolves by Angela Carter'
 ShowReadingTime = true
 ShowToc = true
