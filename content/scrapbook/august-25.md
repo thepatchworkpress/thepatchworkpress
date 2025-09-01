@@ -67,9 +67,11 @@ Hopefully I will soon. Hopefully.
 
 Despite the fact that I got really into darning recently (it's a great hobby for those of us who hoard our old socks and are too lazy to put effort into an actual embroidery project) my dad nearly threw this old shirt because it was full of holes...? Instead of giving it to me...? As if throwing things away when they have holes in makes any sense at all.
 
-I went for bright, contrast colours, a perfect way to improve my dad's signature beige, although you can't really see it super well since most of the holes are on the collar. 
+<div>
+ <img src="/images/mended-collar-aug.jpg" alt="visible mending in blue and green on collar of beige shirt" width="450" class="marginauto"/>
+</div>
 
-It's not the sort of thing I generally wear - my two fashion modes are 'loud and femme', and 'too formal to wear to Tesco' - but I can probably make it work. If not, stay tuned; I might try selling it soon.
+I went for bright, contrast colours, a perfect way to improve my dad's signature beige, although you can't really see it super well since most of the holes are on the collar. It's not the sort of thing I generally wear - my two fashion modes are 'loud and femme', and 'too formal to wear to Tesco' - but I can probably make it work. If not, stay tuned; I might try selling it soon.
 
 ### Birthday Presents
 
