@@ -29,19 +29,15 @@ Will I be following in my partner's footsteps and becoming a Linux user? Stay tu
 
 ## CHAPTER 2: Sleepover Arts and Crafts
 
-Meanwhile, me and my friend made some awesome collages:
-
-{{< instagram DND06CNMwBV >}}
+Meanwhile, I made this awesome collage during an arts and crafts hangout with my friend:
 
 <div>
- <img src="/images/make-yaoi-not-waste-25.jpg" alt="collage reading 'make yaoi not waste!'" width="500" class="marginauto"/>
+ <img src="/images/make-yaoi-not-waste-25.jpg" alt="collage reading 'make yaoi not waste!'" width="550" class="marginauto"/>
 </div>
 
 Felt like a proper trans artist making it. I could explain my thoughts behind the piece, but wouldn't that ruin the fun? Really, it makes a lot of sense that trans people like to collage, what with our being drawn to radical acts of recreation from pre-existing parts. 
 
 ## CHAPTER 3: The Isle of Wight
-
-### Doodling!
 
 I've had a Praktica film camera since 2023, and I got into the habit of taking it pretty much everywhere with me. The main downside of this is that I stopped taking pictures on my phone as much, so I have a lot fewer pictures in general, but I can't really complain. It feels like I'm living in the moment a lot more when I'm less focused about how something will look on a picture I'm probably not going to look at again. You have to put so much more effort into each picture on film; it makes you appreciate them a lot more.
 
@@ -53,10 +49,17 @@ On my holiday to the Isle of Wight (in the middle of my Hugo obsession) I decide
 
 The only quick sketch in a location that I did - which I was pretty pleased with - was this, scribbled while at Yarmouth Castle:
 
+<div>
+ <img src="/images/view-from-yarmouth-castle.jpg" alt="sketch titled 'view from yarmouth castle'" width="300" class="marginauto"/>
+</div>
 
 The other drawing I spent the holiday working on I worked from a reference image over hours... and I still haven't finished it.
 
-### The Question of Logo
+<div>
+ <img src="/images/ventnor-bay-aug-update.jpg" alt="unfinished drawing of ventnor bay" width="550" class="marginauto"/>
+</div>
+
+Hopefully I will soon. Hopefully.
 
 ## CHAPTER 4: Mending, Upcycling and Unfinished Business
 
@@ -74,7 +77,7 @@ I also started on more scrapwork, in much louder colours than before which aren'
 
 It was my partner's birthday at the end of July, and in classic The Patchwork Press fashion, I made him what was originally intended as a patch - which I did not finish in time for his birthday. I presented it to him in its embroidery hoop, and asked how he would like it finishing. He asked if I could make it into a room decoration, which I've never done before but I was happy to take on the challenge.
 
-In classic The Patchwork Press fashion, I decided to make it out of things I found in my room through sheer trial and error. My first idea was to stitch it to some plain cross-stitch canvas. Because I temporarily forgot how hems and seam allowances work, I cut said cross-stitch canvas down to the size I wanted it to be on the finished piece. Since I did not have any correctly-sized cross-stitch canvas left, I abandoned this idea and set my sights on my hoarded cardboard boxes.
+Continuing in classic The Patchwork Press fashion, I decided to make it out of things I found in my room through sheer trial and error. My first idea was to stitch it to some plain cross-stitch canvas. Because I temporarily forgot how hems and seam allowances work, I cut said cross-stitch canvas down to the size I wanted it to be on the finished piece. Since I did not have any correctly-sized cross-stitch canvas left, I abandoned this idea and set my sights on my hoarded cardboard boxes.
 
 This worked much better! I cut the cardboard to the same size I did the canvas, and put PVA glue on the overhanging edges of the fabric to stick down on the "wrong" side of the cardboard. To finish, I used a darning needle to blanket stitch around the edges of the piece. It's not perfect: the back looks unfinished, but it _is_ the back for a reason. I'm super happy with it, and my partner loves it.
 
@@ -100,7 +103,25 @@ First, I had to switch to a smaller button, because I quickly realised my origin
 
 And, to say it's my first buttonhole, I think I did a pretty great job!
 
+<div>
+ <img src="/images/buttonhole.jpg" alt="buttonhole stitched in red thread on navy fabric" width="350" class="marginauto"/>
+</div>
 
+<div>
+ <img src="/images/button.jpg" alt="buttonhole stitched in red thread on navy fabric" width="350" class="marginauto"/>
+</div>
 
-## A FINAL NOTE: Calling Yorkshire Shops!
+I would love to make more textile jewellery going forward! I am very much open to commissions for chokers: I want to try make them for different neck sizes, not just to fit me!
 
+## A FINAL NOTE
+
+Psst! Are you a small shop that promotes makers like me? 
+
+I'm currently looking to sell patches with local shops! Whether you want to commission something specific or leave me to do my own thing, if you stock the work of small artists I would love to hear from you! Please email enquiries.patchworkpress@gmail.com or DM [@thepatchworkpress on Instagram]()!
+
+If you just want something specific on a patch, I would also love to hear from you! Info about how I price individual commissions is available to read on my [Contact](https://thepatchworkpress.com/contact/#commissions) page.
+
+Thank you for reading my first of hopefully many monthly creative updates. Have a lovely, creative September! 
+
+lots of love,  
+The Patchwork Press
