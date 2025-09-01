@@ -8,4 +8,4 @@ title = 'Scrapbook'
  sidePaneSticky = true
 +++
 
-Scrapbook updates pending...
+Works in progress.
