@@ -10,8 +10,9 @@ topics = ["on transness", "body horror"]
 featured = true
 +++
 
-_‘… but his deviant flesh also undeniably creates new life.’_  
-(from _Queer Carnival and Divine Deviance in Lokasenna and Þrymskviða_, Caroline R. Batten)  
+_‘… but his deviant flesh also [undeniably](https://www.researchgate.net/publication/377482619_Args_adal_Queer_Carnival_and_Divine_Deviance_in_Lokasenna_and_THrymskvida) creates new life.’_
+
+***
 
 Damn my rotten womb, ripe with fruit: let it  
 bleed, out, out; let me kill its life anew –  

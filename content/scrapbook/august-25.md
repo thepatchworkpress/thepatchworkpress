@@ -1,6 +1,6 @@
 +++
-date = '2025-03-14T20:43:17Z'
-draft = true
+date = '2025-09-01T09:43:17Z'
+draft = false
 title = 'THE AUGUST REVIEW: Unemployed Artist Learns to Code (Makes Lots of Art Also)'
 ShowReadingTime = true
 tags = ["hugo", "sewing", "embroidery", "upcycling", "collaging", "sketching", "doodling"]
@@ -70,8 +70,6 @@ Despite the fact that I got really into darning recently (it's a great hobby for
 I went for bright, contrast colours, a perfect way to improve my dad's signature beige, although you can't really see it super well since most of the holes are on the collar. 
 
 It's not the sort of thing I generally wear - my two fashion modes are 'loud and femme', and 'too formal to wear to Tesco' - but I can probably make it work. If not, stay tuned; I might try selling it soon.
-
-I also started on more scrapwork, in much louder colours than before which aren't particularly complementary but I quite like them together. I also finished a third patch out of my original scrapwork material! Not on my Etsy yet, for reasons I will get into at the end of this blog post ([though the original two are still available to buy!](https://www.etsy.com/uk/listing/4325905160/scrapwork-love-heart-embroidered-patches)), but my new scrapwork material will be used to make more patches very soon!
 
 ### Birthday Presents
 
