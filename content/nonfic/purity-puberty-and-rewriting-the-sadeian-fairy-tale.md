@@ -6,7 +6,7 @@ ShowReadingTime = true
 ShowToc = true
 tags = ["angela carter", "the bloody chamber and other stories", "the sadeian woman", "academic", "litcrit", "feminism"]
 series = ["essays from my undergrad"]
-topics = ["body horror", "adolescence", "sexuality and eroticism", "reading and rereading", "fairy tales", "weird women"]
+topics = ["body horror", "adolescence", "sexuality and eroticism", "reading and rereading", "fairy tales", "weird women", "theories of representation"]
 featured = false
 +++
 

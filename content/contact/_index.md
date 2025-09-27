@@ -4,7 +4,7 @@ draft = false
 title = 'Contact'
 +++
 
-**The Patchwork Press** is on [Instagram](https://www.instagram.com/thepatchworkpress) and [Tumblr](https://www.tumblr.com/thepatchworkpress), where you can follow for scrapbook and [Etsy shop](https://mimsypatches.etsy.com) updates! I am working on setting up a mailing list so you can get regular updates about blog posts and my shop straight to your inbox.
+**The Patchwork Press** is on [Instagram](https://www.instagram.com/thepatchworkpress) and [Tumblr](https://www.tumblr.com/thepatchworkpress), where you can follow for scrapbook and [Etsy shop](https://mimsypatches.etsy.com) updates! You can also support me on [Ko-fi](https://ko-fi.com/thepatchworkpress).
 
 For specific queries, please email enquiries.patchworkpress@gmail.com or DM me on Instagram or Etsy!
 

@@ -6,7 +6,7 @@ ShowReadingTime = true
 ShowToc = true
 tags = ["poetry"]
 series = ["quick reads", "elegy for eden, unmade"]
-topics = ["on transness", "body horror"]
+topics = ["on transness", "body horror", "identity and the self"]
 featured = true
 +++
 
