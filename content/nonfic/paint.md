@@ -3,7 +3,7 @@ date = '2025-09-27T20:57:58+01:00'
 draft = true
 title = 'Paint: How to Reclaim Your Body Under Capitalism'
 ShowReadingTime = true
-ShowToc = true
+ShowToc = false
 tags = ["feminism", "make-up", "representation"]
 series = ["creative non-fiction"]
 topics = ["on transness", "capitalism", "adolescence", "identity and the self", "theories of representation"]
@@ -65,7 +65,7 @@ I looked for queer girls – perhaps that was what was missing for me – but st
 
 I respond to representations of masculinity with a sense of *want* from somewhere deep in my gut. For a long time, I felt that it was some patriarchal influence on writers, that none of them truly understood how to write compelling women and it was up to me, the most feminist of all, to fill in that gap. But I couldn’t do it. I wrote women that compelled me: women I related to, women I thought were hot, women I just thought were cool, but still, femininity could not fulfil the fantasy that masculinity could. I was obsessed with the way that men in films dressed and carried themselves, the way they interacted with each other, with women, the way they talked, the way they smiled. Representations of masculine beauty always felt so much more *real* to me than those of feminine beauty – the effortless tousle of the hair, the laughter lines; the rebellious freedom of boyhood; the dark eyes that glow under grainy film, the stubble, the markers of exhaustion that make me look haggard and him look gorgeous.
 
-I need to make it clear that I am not describing a sexual attraction. I am old enough now to understand the difference between wanting to look at someone and wanting to *become* them. Is this how it feels for straight women who long for other women? This longing to become felt so central to my girlhood. I never wanted to grow up into the symbolic, perfect women everyone I knew lusted for. Masculinity, especially queer masculinity, called to something I didn’t have the language to understand yet.
+I need to make it clear that I am not describing a sexual attraction. I am old enough now to understand the difference between wanting to look at someone and wanting to *become* them. Is this how it feels for straight women who long for other women? This longing to become felt so central to my girlhood. I never wanted to grow up into one of the perfect women everyone I knew lusted for. Masculinity, especially queer masculinity, called to something I didn’t have the language to understand yet.
 
 I never sought it out, only stumbled upon it from time to time. Growing up on fandom Instagram and Tumblr, I knew that girls could, under *no* circumstances, feel this way about queer men. It was denounced as fetishism – dirty. I’m not denying that, culturally, we sexualise queer men, and fandom culture, at least when I last engaged in it, exacerbated this sexualisation in frankly bizarre ways. But I was so afraid of being one of *those* girls that I refused to grant the longing truth. I let it fester. I blamed it on sexist writers and internalised misogyny. I let it affirm that I wasn’t attracted to men at all. 
 
@@ -103,7 +103,7 @@ Recently, I received a letter from myself that I wrote the blink of an eye and a
 
 I wouldn’t say that I’ve *found peace* with my gender identity, but the two of us have come to a truce. I have accepted that a non-binary gender identity was not something I chose. Instead, I was landed with it, labelled non-binary by the fact that I am inescapably queer. It doesn’t matter that I wear make-up and dresses, I sit with my legs crossed, I speak only when spoken to. Nor that I have breasts, a male partner, a menstrual cycle. Everyone, without a second’s hesitation, assumes me a lesbian – not-so-subtly hiding the label of *other*. No matter how I try to perform correct womanhood, I am inevitably failed-woman; woman-without-man; woman-without-child. Queerness wasn’t really a choice; queerness happened to me. So I embraced it. You have to.
 
-If the binary of masculinised/feminised underpins how we, me and you, reader, interact with one another, I far too carefully walk the line between the two. To say gender is not binary is to articulate that, while ideals of gender may *influence* how people present themselves and interact with one another, they cannot fully write that social script. That is, we behave as ourselves; others map our behaviour onto their gendered ideals, and treat us accordingly. These ideals are, inevitably, unattainable. Trans people are acutely aware of this – remember, we are gendered inescapably *other* – but anyone who accepts the gender binary as fact will be forever stuck chasing them.
+If the binary of masculinised/feminised underpins how we, me and you, reader, interact with one another, I am non-binary because I far too carefully walk the line between the two. To say that *gender is a spectrum* is to articulate that, while ideals of gender may *influence* how people present themselves and interact with one another, they cannot fully write that social script. That is, we behave as ourselves; others map our behaviour onto their gendered ideals, and treat us accordingly. These ideals are, inevitably, unattainable. Trans people are acutely aware of this – remember, we are gendered inescapably *other* – but anyone who accepts the gender binary as fact will be forever stuck chasing them.
 
 Gender is a semiotic exchange between oneself and the viewer. By this, I mean that to identify with one gender or another relies upon a sense of *self* as representation. The complexities of my desire to become are rendered as flat as my face in the mirror.
 
@@ -112,3 +112,61 @@ Doesn’t it feel better to imagine a world where you’re in control of how you
 You can use make-up to hate yourself, or you can wash away the costume you wore yesterday and begin again. You can repaint the guise of your body – if capitalism wants you to live in a costume, let that costume be unrecognisable. Let it be forever changing, forever TOO MUCH to put in one pared-down gendered box or another. I was a prim and proper girl, and I hated every second. Why would I want to transition into a prim and proper man? If I have to live in a gendered costume, I would rather its gendering was in my hands.
 
 Use the consumerist products to fulfil the consumerist ideals that made you hate yourself, or costume yourself anew, less perfect, more beautiful by the day. They say that confidence is the most attractive thing in a woman, after all.
+
+<p style="text-align: center;">
+<b>***</b>
+</p>
+
+And yet, in spite of every criticism I have of the beauty industry, I am not immune to the desire to overcome the humanity of my body. A thing made of flesh is hard work to look after, painful work when you get something wrong. I fantasise, a lot, about reinventing my body over and over again – going through a second puberty into manhood, then a third where I grow wings and claws. A fourth transforms me into a semi-aquatic mammal; a fifth means I grow thick fur and sharp teeth when I’m due on; after a sixth, I am a Baba Yaga figure, the kind of bitter old witch you only find in fairy tales…
+
+It isn’t going to happen. Certainly, my body will change as I get older. I can take steps to change it. I could eat better. Go on hormones. Start working out. Get tattoos, piercing, plastic surgery – but no matter what happens, the flesh I am made from will still have grown from the seed of my body.
+
+No matter how I – or you, reader, for that matter – feel about my body, it is the one I am stuck with for the rest of my life. Might as well get used to it.
+
+Make-up, for me, is the closest I can get to truly embodying these fantasies of transformation. I like that paint on skin is a sensory process: it stops me getting too caught up in imagined versions of myself, bringing my imagination that little bit closer to my flesh. 
+
+I play with eyeliner mostly. I’ve convinced myself that wearing it under my eyes rather than on my eyelids makes me look more masculine, which is probably not true. Nonetheless, I think it’s fun to play with what shapes suggest, and to see how I can reimagine make-up in different, less conventionally pretty ways. I try to embrace make-up’s artificiality and avoid covering anything up. I avoid concealer on principle, instead colouring my dark circles in different shades. I draw dots and crosses under my eyes, my eyebrows, around my nose. I paint stars and love hearts on my cheeks.
+
+I paint grander, when I’ve time. I grow gardens across my cheekbones and neck, sometimes arms and legs, and wash them off, and paint them again. I dress like a doll with patches and stitching, heart-shaped lips, bursting seams and clockwork arms and legs. It feels good to play with these ideals of beauty rendered inhuman. Paint is best embraced as an elaborate game of let’s-pretend.
+
+I’m not scared of looking older yet, but I’m scared that when I do, I won’t be able to express myself in the same way. I’m scared that my cheap make-up and tacky clothes will no longer flatter my aging skin, and that that will drive me to call my body flawed. My mum calls it *mutton dressed as lamb*: the failure to accept that your body has changed and desperately trying to make yourself look how you did at twenty, back when you were, apparently, beautiful. Nostalgia is seductive, even when you know that it's a liar.
+
+I hate the idea that an old person is a failed beautiful person. Why should you never ask a woman her age? Age doesn’t change how long anyone has been on this earth, what they know and don’t know, whether or not they are happy in themselves. It doesn’t even change what they look like! *She looks wonderful for her age*, as though to age is to negate one’s capacity for wonder. Our bodies will, inevitably, change beyond our control. They will wrinkle and sag, gain weight or lose it, become brittle, tired, damaged – and that’s assuming that they’re not already. You might go through menopause. You might stop being able to get it up. You might lose your teeth. 
+
+But I’m excited! I’m excited for what it means to grow old, to learn new things about myself and the world. To leave the scared girl of my childhood further and further in the past, to comfort the version of her that I carry with me everywhere the more confident I become about whatever the fuck life has to offer. I don’t fear that aging will lose me some beauty that is/was inherent in my youth. I have most certainly not reached my prime yet.
+
+In school, I was obsessed with the way friends would sit in class and doodle on each others’ hands, like decorating one another is a human urge. It is a reminder of touch, I suppose, much gentler, much more deliberate than a hickey or a bruise. I like the idea that life marks itself on your skin in the same way.
+
+<p style="text-align: center;">
+<b>***</b>
+</p>
+
+Gender is a semiotic exchange between oneself and the viewer; it is complex desire rendered as flat as one’s face in the mirror. But it is permanently mutating. What do you see written in the strokes of my paintbrush? I am a Barbie doll with a buzzcut and a crayon wound on her chest; I am porcelain girl with round ringlets in my hair, round rouge on my cheeks; I am a boy held together with poster paint and glue. I am an underwear model whose tits are too small; I am a drag queen whose dress doesn’t fit; I am a highly-strung man in a business suit. I am a walking womb, a failed-woman, a never-really-tried-man. I am that little bit too confusing for cis people, which means I am the representation that I needed growing up. I am in a state of transition that you will never see in a thirty-second video chronicling a perfect line drawn from A to B.
+
+My ribs, I've been told, look like angel wings.
+
+***
+
+## *Recommended Reading*
+
+This essay was not something I sat down and researched; I think it’s something that’s been in me, waiting to be written, for a long time. As such, I can’t really provide a bibliography beyond ‘I’ve been an angry feminist since I was ten’. That being said, there are a few texts that I definitely think influenced my writing of this essay that I want to pay homage to.
+
+### *On Beauty*
+
+I highly recommend the video essay I watched immediately before I started to write, Rowan Ellis’ [‘disfigurement, disgust and the dark side of pretty privilege’](https://youtu.be/6ba_f_AFTSM). I… don’t really think anything in my essay directly responds to the questions Ellis brings up in this video, but she prompted me to question my own relationship to beauty and make-up in particular, which spiralled into the nearly year-long passion project you just read. 
+
+{{< youtube 6ba_f_AFTSM >}}
+
+Partway through writing, I watched the partner video to Ellis’ video on disfigurement, [‘ugly is evil: the dystopian legacy of 2000s makeover tv’](https://youtu.be/Lev2v3NPnZU). Using several television shows I remember vividly from my childhood as a vehicle, she brilliantly explores our cultural disgust at perceived excess, be it weight, make-up, or, of course, queerness. 
+
+{{< youtube Lev2v3NPnZU >}}
+
+### *On Feminism*
+
+It took me a long time to finish this essay, because I knew there was something missing to it that I was struggling to put into words. Jennifer Cox’s [*Women Are Angry*](https://www.ealinglivingmagazine.co.uk/unleashing-hidden-rage-an-interview-with-local-author-jennifer-cox-on-her-new-book-women-are-angry/) finally helped me articulate it, although probably not in the way Cox intended it. The book is a powerful exploration of how women internalise gendered ideals over the course of their lives and subsequently fail to articulate their needs – but Cox makes the mistake many cis women do: failing to remember that there will *always* be exceptions to the rule. As a neurodivergent person, I don’t think I’ve ever succeeded in controlling my anger as well as Cox claims all those raised female learn to do. Although I found a lot of Cox’s subsequent analyses of interpersonal gender relations fascinating and sometimes relatable, the book began to make me wonder how ‘raised female’ I really am.
+
+In this vein, I can’t not credit Andrea Long Chu’s [*Females*](https://www.vogue.com/article/andrea-long-chu-interview-females), which I read in one sitting about six weeks prior. In the way only a trans person can, Chu satirises the assumptions inherent in the belief in a social gender binary: if femininity is defined by being a victim of a gendered system, is it possible for anyone to ever be anything else? (If you only ever read one book I recommend you, *please* let it be *Females*.) Angela Carter’s [*The Sadeian Woman: An Exercise in Cultural History*](https://archive.org/details/sadeianwoman00ange_0) makes a fairly similar claim, just fifty years earlier in the heat of the feminist porn debates. I think both books are brilliant companion texts to each other, but that’s a subject for a later essay.
+
+### *On Myself*
+
+There was a strangely long gap of time between when I first saw the title for manmadezines’ [‘I Am A Transmasc Femboy’](https://manmadezines.itch.io/transmasc-femboy) and when I finally read it, so I suppose the damage was done long before I actually read the zine. I think just seeing those words next to each other really embedded into my head that I can do whatever I want forever.
