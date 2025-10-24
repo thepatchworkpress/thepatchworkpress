@@ -1,5 +1,5 @@
 +++
-date = '2025-09-27T20:57:58+01:00'
+date = '2025-10-24T20:57:58+01:00'
 draft = false
 title = 'Paint: How to Reclaim Your Body Under Capitalism'
 ShowReadingTime = true
