@@ -1,6 +1,6 @@
 +++
 date = '2025-09-27T20:57:58+01:00'
-draft = true
+draft = false
 title = 'Paint: How to Reclaim Your Body Under Capitalism'
 ShowReadingTime = true
 ShowToc = false
@@ -145,11 +145,15 @@ Gender is a semiotic exchange between oneself and the viewer; it is complex desi
 
 My ribs, I've been told, look like angel wings.
 
+<div>
+ <img src="/images/paint-illustration.jpg" alt="original painting by Ambrose Melissa Johnston, depicting their make up set" width="500" class="marginauto"/>
+</div>
+
 ***
 
 ## *Recommended Reading*
 
-This essay was not something I sat down and researched; I think it’s something that’s been in me, waiting to be written, for a long time. As such, I can’t really provide a bibliography beyond ‘I’ve been an angry feminist since I was ten’. That being said, there are a few texts that I definitely think influenced my writing of this essay that I want to pay homage to.
+This essay was not something I sat down and researched; I think it’s something that’s been in me, waiting to be written, for a long time. As such, I can’t really provide a bibliography beyond ‘I’ve been an angry feminist since I was ten’. This means, unfortunately, that I am likely parroting a lot of watered-down theory that I've absorbed on the Internet over the course of years. That being said, there are a few texts that I definitely think influenced my writing of this essay that I want to pay homage to.
 
 ### *On Beauty*
 
