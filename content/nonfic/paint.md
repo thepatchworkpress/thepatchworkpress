@@ -4,7 +4,7 @@ draft = false
 title = 'Paint: How to Reclaim Your Body Under Capitalism'
 ShowReadingTime = true
 ShowToc = false
-tags = ["feminism", "make-up", "representation"]
+tags = ["feminism", "make-up", "representation", "femininity", "transmasculinity"]
 series = ["creative non-fiction"]
 topics = ["on transness", "capitalism", "adolescence", "identity and the self", "theories of representation"]
 featured = true
@@ -17,7 +17,7 @@ featured = true
 }
 </style>
 
-Once again, I am mindlessly scrolling Instagram. Once upon a time, I believed that my loyalty to this app lay in a desire to keep in touch with others, but I admit these days that this is a lie. When you are too worn out to concentrate on anything else, you, too, will suddenly understand the appeal of that instant flash of dopamine. I don’t know when the algorithm, the obedient robot that people treat like flesh, pinpointed me as someone easily hypnotised by make-up. It is a quick and satisfying fix. The artists in these videos draw a perfect line from A to B, and they are much better at it than me. They are prettier than me; they are wealthier than me. They always undergo a fairy-tale transformation from beautiful to more beautiful; their bare skin was covered with foundation and concealer before the camera even started to roll. They decorate their faces with the shapes favoured by modern fashion – sharp cheekbones, sharp eyeliner, full lips, thick lashes. They are usually women, and when they are not, they are homophobically harassed for their perfectionistic adherence to a female beauty standard in the comments.
+Once again, I am mindlessly scrolling Instagram. Once upon a time, I believed that my loyalty to this app lay in a desire to keep in touch with others, but I admit these days that this is a lie. When you are too worn out to concentrate on anything else, you, too, will understand the appeal of that instant flash of dopamine. I don’t know when the algorithm, the obedient robot that people treat like flesh, pinpointed me as someone easily hypnotised by make-up. It is a quick and satisfying fix. The artists in these videos draw a perfect line from A to B, and they are much better at it than me. They are prettier than me; they are wealthier than me. They always undergo a fairy-tale transformation from beautiful to more beautiful; their bare skin was covered with foundation and concealer before the camera even started to roll. They decorate their faces with the shapes favoured by modern fashion – sharp cheekbones, sharp eyeliner, full lips, thick lashes. They are usually women, and when they are not, they are homophobically harassed for their perfectionistic adherence to a female beauty standard in the comments.
 
 Occasionally, they will invent trends that they claim are anti-beauty industry. Anything with a pop of colour is ‘man-repellent make-up’. Any decoration that vaguely deviates from the usual fashion is, apparently, alternative.
 
@@ -40,7 +40,7 @@ I don’t care what your birth sex or gender identity is, reader: the way you in
 This is not to diminish the role that individual male hatred of women plays in patriarchal society at large. Rather, it is to illustrate an analogy that underpins my core beliefs about feminism, ethical consumption under capitalism, and the not only inevitable but intrinsic overlap between the two:
 
 <p style="text-align: center;">
-<b>YOU SHOULD NOT EAT MEAT WITHOUT RESPECTING THE ANIMAL THAT IT CAME FROM.</b>
+<b>YOU SHOULD NOT EAT MEAT WITHOUT RESPECT FOR THE ANIMAL THAT IT CAME FROM.</b>
 </p>
 
 Humans are omnivorous, and those who don’t eat meat or animal produce often struggle to get all the nutrients that their body requires from their diet. However, in an economic system that prizes efficiency over decency, animals that are born to be slaughtered are systemically, brutally mistreated. Knowing this fact is half the battle. Do you respect that the animals we eat are living things that have as much right to exist as we do? Does this affect the way you consume them? If (and that is a strong *if*: under the current economic system this is rarely the case) you could afford the money and time to ensure that the animals you eat lived and died humanely, would you?
@@ -65,7 +65,7 @@ I looked for queer girls – perhaps that was what was missing for me – but st
 
 I respond to representations of masculinity with a sense of *want* from somewhere deep in my gut. For a long time, I felt that it was some patriarchal influence on writers, that none of them truly understood how to write compelling women and it was up to me, the most feminist of all, to fill in that gap. But I couldn’t do it. I wrote women that compelled me: women I related to, women I thought were hot, women I just thought were cool, but still, femininity could not fulfil the fantasy that masculinity could. I was obsessed with the way that men in films dressed and carried themselves, the way they interacted with each other, with women, the way they talked, the way they smiled. Representations of masculine beauty always felt so much more *real* to me than those of feminine beauty – the effortless tousle of the hair, the laughter lines; the rebellious freedom of boyhood; the dark eyes that glow under grainy film, the stubble, the markers of exhaustion that make me look haggard and him look gorgeous.
 
-I need to make it clear that I am not describing a sexual attraction. I am old enough now to understand the difference between wanting to look at someone and wanting to *become* them. Is this how it feels for straight women who long for other women? This longing to become felt so central to my girlhood. I never wanted to grow up into one of the perfect women everyone I knew lusted for. Masculinity, especially queer masculinity, called to something I didn’t have the language to understand yet.
+I need to make it clear that I am not describing a sexual attraction. I am old enough now to understand the difference between wanting to look at someone and wanting to *become* them. Is this how it feels for straight women who long for other women? This longing *to become* was so central to my girlhood. I never wanted to grow up into one of the perfect women everyone I knew lusted for. Masculinity, especially queer masculinity, called to something I didn’t have the language to understand yet.
 
 I never sought it out, only stumbled upon it from time to time. Growing up on fandom Instagram and Tumblr, I knew that girls could, under *no* circumstances, feel this way about queer men. It was denounced as fetishism – dirty. I’m not denying that, culturally, we sexualise queer men, and fandom culture, at least when I last engaged in it, exacerbated this sexualisation in frankly bizarre ways. But I was so afraid of being one of *those* girls that I refused to grant the longing truth. I let it fester. I blamed it on sexist writers and internalised misogyny. I let it affirm that I wasn’t attracted to men at all. 
 
@@ -83,7 +83,7 @@ I know enough about drag to understand that, in politically correct terms, it is
 
 Prettiness is a particularly delicate subset of beauty: girls who look like porcelain dolls; feminised boys in classical art. By necessity, *prettiness* deserves protection from that which wishes to erode it, that which is too brash. Beauty, in particular prettiness, is by definition, not brash. Instead, beauty represents a Platonic ideal of personhood, who one could be if they stripped everything that disgusts them from their flesh. Acne. Wrinkles. Fat. Body hair. Scars. To be beautiful, you must pare down the shape of your face, your nose, your waist, your thighs. Cut yourself into the shape of the moment, through illusion or a surgeon’s knife, and grow yourself back when the moment passes.
 
-Youth, pretty, delicate youth, is beauty’s idolised object: it is the innocent moment you were still malleable to its whims. To be young is to have your finger on the pulse of what everyone else is thinking and root it in your skin. Within the ideology of beauty, one is expected to stick their dollar in the fashion of the moment over and over again lest they seem *old*, until they can’t pull it off any more. Until the flaws of their body outweigh the money they have to cover them up. Use this product to prevent wrinkles; use this to cover your blemishes; use this to remove hair; use this to stay thin. Use this one to keep every carefully perfected line of paint in place – for a little longer than before you put it on, at least. Until you have to paint your perfect self on again.
+Youth, pretty, delicate youth, is beauty’s idolised object: it is the innocent moment you were still malleable to its whims. To be young is to have your finger on the pulse of what everyone else is thinking and root it in your skin. Within the ideology of beauty, one is expected to stick their dollar in the fashion of the moment over and over again lest they seem *old*, until they can’t pull it off any more. Until the flaws of their body outweigh the money they have to cover them up. Use this product to prevent wrinkles; use this to cover your blemishes; use this to remove hair; use this to stay thin. Use this one to keep every carefully perfected line of paint in place – for a little longer than it would otherwise, at least. Until you have to paint your perfect self on again.
 
 And you can’t even tell you’re wearing it!
 
@@ -99,13 +99,13 @@ We are born naked; the rest is drag. RuPaul, I think? He got at least that one r
 <b>***</b>
 </p>
 
-Recently, I received a letter from myself that I wrote the blink of an eye and a lifetime ago. I’d just started playing with make-up, and I’d started questioning my gender in the same breath. ‘It’s all so confusing,’ I wrote; ‘Have you found peace with it now?’ Reading it again, I was struck by how *bothered* I was by what it means to be cis versus trans, as though one’s privilege under patriarchy is gained and lost by nothing more than the labels they use. It’s easy to highlight this irony as a university graduate who’s read Judith Butler, but how many teenagers grow up within this paradigm, stuck believing their gender is a purely internal phenomenon rather than one forced upon them? How many cis people? How many trans?
+Recently, I received a letter from myself that I wrote the blink of an eye and a lifetime ago. I’d just started playing with make-up, and I’d started questioning my gender in the same breath. ‘It’s all so confusing,’ I wrote; ‘Have you found peace with it now?’ Reading it again, I was struck by how *bothered* I was by what it means to be cis versus trans, as though one’s privilege under patriarchy is gained and lost through nothing more than the labels they use. It’s easy to highlight this irony as a university graduate who’s read Judith Butler, but how many teenagers grow up within this paradigm, stuck believing their gender is a purely internal phenomenon rather than one forced upon them? How many cis people? How many trans?
 
-I wouldn’t say that I’ve *found peace* with my gender identity, but the two of us have come to a truce. I have accepted that a non-binary gender identity was not something I chose. Instead, I was landed with it, labelled non-binary by the fact that I am inescapably queer. It doesn’t matter that I wear make-up and dresses, I sit with my legs crossed, I speak only when spoken to. Nor that I have breasts, a male partner, a menstrual cycle. Everyone, without a second’s hesitation, assumes me a lesbian – not-so-subtly hiding the label of *other*. No matter how I try to perform correct womanhood, I am inevitably failed-woman; woman-without-man; woman-without-child. Queerness wasn’t really a choice; queerness happened to me. So I embraced it. You have to.
+I wouldn’t say that I’ve *found peace* with my gender identity, but the two of us have come to a truce. I have accepted that a non-binary gender identity was not something I chose. Instead, I was landed with it, labelled non-binary by the fact that I am inescapably queer. It doesn’t matter that I wear make-up and dresses, I sit with my legs crossed, I speak only when spoken to. Nor that I have breasts, a male partner, a menstrual cycle. Everyone, without a second’s hesitation, assumes me a lesbian – not-so-subtly hiding their assumption that I am *other*. No matter how I try to perform correct womanhood, I am inevitably failed-woman; woman-without-man; woman-without-child. Queerness wasn’t really a choice; queerness happened to me. So I embraced it. You have to.
 
 If the binary of masculinised/feminised underpins how we, me and you, reader, interact with one another, I am non-binary because I far too carefully walk the line between the two. To say that *gender is a spectrum* is to articulate that, while ideals of gender may *influence* how people present themselves and interact with one another, they cannot fully write that social script. That is, we behave as ourselves; others map our behaviour onto their gendered ideals, and treat us accordingly. These ideals are, inevitably, unattainable. Trans people are acutely aware of this – remember, we are gendered inescapably *other* – but anyone who accepts the gender binary as fact will be forever stuck chasing them.
 
-Gender is a semiotic exchange between oneself and the viewer. By this, I mean that to identify with one gender or another relies upon a sense of *self* as representation. The complexities of my desire to become are rendered as flat as my face in the mirror.
+Gender is a semiotic exchange between oneself and the viewer. To identify with one gender or another relies upon a sense of *self* as representation. The complexities of my desire *to become* are rendered as flat as my face in the mirror.
 
 Doesn’t it feel better to imagine a world where you’re in control of how you are seen? To turn the paintbrush back on the voyeur in your head?
 
@@ -146,14 +146,14 @@ Gender is a semiotic exchange between oneself and the viewer; it is complex desi
 My ribs, I've been told, look like angel wings.
 
 <div>
- <img src="/images/paint-illustration.jpg" alt="original painting by Ambrose Melissa Johnston, depicting their make up set" width="500" class="marginauto"/>
+ <img src="/images/paint-illustration.jpg" alt="original painting by Ambrose Melissa Johnston, depicting their make up set" width="400" class="marginauto"/>
 </div>
 
 ***
 
 ## *Recommended Reading*
 
-This essay was not something I sat down and researched; I think it’s something that’s been in me, waiting to be written, for a long time. As such, I can’t really provide a bibliography beyond ‘I’ve been an angry feminist since I was ten’. This means, unfortunately, that I am likely parroting a lot of watered-down theory that I've absorbed on the Internet over the course of years. That being said, there are a few texts that I definitely think influenced my writing of this essay that I want to pay homage to.
+This essay was not something I sat down and researched; I think it’s something that’s been in me, waiting to be written, for a long time. As such, I can’t really provide a bibliography beyond ‘I’ve been an angry feminist since I was ten’. I accept that, unfortunately, I am likely parroting a lot of watered-down theory that I have absorbed from social media over the years, and am unable to properly cite. That being said, there are a few texts that I definitely think influenced my writing of this essay that I want to pay homage to.
 
 ### *On Beauty*
 
