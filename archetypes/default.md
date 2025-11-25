@@ -16,4 +16,4 @@ featured = false
     display: block;
 }
 </style>
-#centres images
+

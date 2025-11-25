@@ -17,7 +17,7 @@ featured = false
 
 Ah, August, a month of reflection, bug bites, and being unbearably sweaty. The month it sunk into me that oh, I really _have_ graduated uni, now, and scrolling a social media site most believe to be dead, rewatching a sitcom that finished airing before I finished primary school, and complaining about how there are no grad jobs is not a great way to spend my time. I decided to get my act together: I sat down, put my English degree to good use and wrote [a review for _The Passion of New Eve_](https://thepatchworkpress.com/nonfic/new-eve-review/). But where to share my masterpiece? Could it be I should finish setting up that website I started coding way back in March, so that even if I can't achieve my dream of living off an art career, I can at least pretend I gave it a shot?
 
-## CHAPTER 1: Coding 101
+## CHAPTER ONE: Coding 101
 
 I was very apologetic about the unfinished state of my website in the Instagram post I made about the review, only to become completely obsessed with [Hugo](https://gohugo.io/) and get my home page fixed literally days later. I haven't coded since I was at school, and my computer nerd partner endlessly makes fun of my so-called tech illiteracy, so becoming a GitHub user was _not_ on my 2025 bingo.Fortunately for me, Hugo is very straightforward. Once you have a few nitty-gritty bits of toml or yaml or some other coding language that would be a lovely name for a baby girl, you just type as you would into a text editor, with a few extra underscores here and there. 
 
@@ -27,7 +27,7 @@ In this instance, I found out I was supposed to be editing a completely 'content
 
 Will I be following in my partner's footsteps and becoming a Linux user? Stay tuned.
 
-## CHAPTER 2: Sleepover Arts and Crafts
+## CHAPTER TWO: Sleepover Arts and Crafts
 
 Meanwhile, I made this awesome collage during an arts and crafts hangout with my friend:
 
@@ -37,7 +37,7 @@ Meanwhile, I made this awesome collage during an arts and crafts hangout with my
 
 Felt like a proper trans artist making it. I could explain my thoughts behind the piece, but wouldn't that ruin the fun? Really, it makes a lot of sense that trans people like to collage, what with our being drawn to radical acts of recreation from pre-existing parts. 
 
-## CHAPTER 3: The Isle of Wight
+## CHAPTER THREE: The Isle of Wight
 
 I've had a Praktica film camera since 2023, and I got into the habit of taking it pretty much everywhere with me. The main downside of this is that I stopped taking pictures on my phone as much, so I have a lot fewer pictures in general, but I can't really complain. It feels like I'm living in the moment a lot more when I'm less focused about how something will look on a picture I'm probably not going to look at again. You have to put so much more effort into each picture on film; it makes you appreciate them a lot more.
 
@@ -61,7 +61,7 @@ The other drawing I spent the holiday working on I worked from a reference image
 
 Hopefully I will soon. Hopefully.
 
-## CHAPTER 4: Mending, Upcycling and Unfinished Business
+## CHAPTER FOUR: Mending, Upcycling and Unfinished Business
 
 ### Reduce, Reuse!
 
