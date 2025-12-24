@@ -4,6 +4,8 @@ title = 'The Patchwork Press'
 theme = 'rusty-typewriter'
 
 enableRobotsTXT = true
+
+googleAnalytics = "G-J75N3YXYGB"
  
 [taxonomies]
 tag = 'tags'
@@ -13,11 +15,11 @@ series = 'series'
 [rusty_typewriter]
  [params.rtwt]
   sidePane = true
-  countPageItems = 7 
+  countPageItems = 7
  [params.rtwt.home]
   showBio = true
   showAuthorImg = false
-  sidePaneTags = true
+  sidePaneTags = false
   showFeatured = true
   showRecent = true
   hideRecentWhenFeatured = true
