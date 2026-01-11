@@ -5,7 +5,13 @@ theme = 'rusty-typewriter'
 
 enableRobotsTXT = true
 
-googleAnalytics = "G-J75N3YXYGB"
+[services]
+  [services.googleAnalytics]
+    id = 'G-J75N3YXYGB'
+[privacy]
+  [privacy.googleAnalytics]
+    disable = false
+    respectDoNotTrack = true
  
 [taxonomies]
 tag = 'tags'
