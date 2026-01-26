@@ -4,7 +4,7 @@ draft = false
 title = 'Contact'
 +++
 
-**The Patchwork Press** is on [Instagram](https://www.instagram.com/thepatchworkpress) and [Tumblr](https://www.tumblr.com/thepatchworkpress), where you can follow for scrapbook updates! You can also support me on [Ko-fi](https://ko-fi.com/thepatchworkpress).
+**The Patchwork Press** is on [Instagram](https://www.instagram.com/thepatchworkpress)! You can also support me on [Ko-fi](https://ko-fi.com/thepatchworkpress).
 
 For specific queries, please email enquiries.patchworkpress@gmail.com or DM me on Instagram!
 
@@ -56,10 +56,6 @@ Cross-stitched patches are priced based on size, plus an additional fee per lett
 ### Embroidery, Applique or Darning on a Clothing Item
 
 If you are interested in commissioning an alteration on a clothing item, please email enquiries.patchworkpress@gmail.com to negotiate a quote. You must cover shipping.
-
-### Writing
-
-Minimum 200 words priced at approx. £0.08 per word, subject to the amount of time any additional research needed to write the piece requires. I'm happy to write in any style or form you see on The Patchwork Press, with full credit to Ambrose M Johnston and The Patchwork Press.
 
 ### Shipping
 
