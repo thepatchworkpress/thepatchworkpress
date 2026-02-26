@@ -37,4 +37,4 @@ as his own.
 
 ***
 
-This poem is due to be published in _An Anthology Against Hate_ in 2026. [Tickets to Poetry for PAFRAS, the event where the finished anthology will be sold, available here.](https://www.eventbrite.co.uk/e/poetry-for-pafras-tickets-1914008714589) Keep an eye on The Patchwork Press for more information soon.
+This poem features in _An Anthology Against Hate_, a poetry anthology whose proceeds go towards [PAFRAS](https://pafras.org.uk/), a charity supporting refugees in Leeds. [You can buy the anthology here.](https://forgezine.bigcartel.com/product/an-anthology-against-hate)
