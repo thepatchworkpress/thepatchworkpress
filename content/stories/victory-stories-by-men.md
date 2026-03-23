@@ -37,4 +37,4 @@ as his own.
 
 ***
 
-This poem features in _An Anthology Against Hate_, a poetry anthology whose proceeds go towards [PAFRAS](https://pafras.org.uk/), a charity supporting refugees in Leeds. [You can buy the anthology here.](https://forgezine.bigcartel.com/product/an-anthology-against-hate)
+This poem features in _An Anthology Against Hate_, a poetry anthology whose proceeds go towards [PAFRAS](https://pafras.org.uk/), a charity supporting refugees in Leeds. [You can buy the anthology here.](https://www.forgepressyork.co.uk/product/22349130/an-anthology-against-hate)
