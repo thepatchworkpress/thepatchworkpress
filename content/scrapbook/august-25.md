@@ -1,6 +1,6 @@
 +++
 date = '2025-09-01T09:43:17Z'
-draft = false
+draft = true
 title = 'THE AUGUST REVIEW: Unemployed Artist Learns to Code (Makes Lots of Art Also)'
 ShowReadingTime = true
 tags = ["hugo", "sewing", "embroidery", "upcycling", "collaging", "sketching", "doodling"]

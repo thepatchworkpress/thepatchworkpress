@@ -6,7 +6,7 @@ ShowReadingTime = false
 ShowToc = false
 tags = ["poetry", "an anthology against hate"]
 topics = ["reading and rereading"]
-series = ["quick reads"]
+series = ["quick reads", "published work"]
 featured = true
 +++
 

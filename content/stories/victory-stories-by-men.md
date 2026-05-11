@@ -5,7 +5,7 @@ title = 'Victory (Stories by Men)'
 ShowReadingTime = true
 ShowToc = true
 tags = ["poetry", "an anthology against hate"]
-series = ["quick reads"]
+series = ["quick reads", "published work"]
 topics = ["reading and rereading", "theories of representation", "colonialism"]
 featured = true
 +++
