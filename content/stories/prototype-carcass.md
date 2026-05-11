@@ -1,6 +1,6 @@
 +++
 date = '2026-05-11T12:18:01+01:00'
-draft = true
+draft = false
 title = 'Prototype Carcass'
 ShowReadingTime = true
 ShowToc = false
